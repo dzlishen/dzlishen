@@ -2018,7 +2018,7 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"sui-indeterminate-check-box"
+					"sui-indeter-checkbox"
 				]
 			},
 			"attrs": [
@@ -2029,7 +2029,7 @@
 				"id": 69,
 				"prevSize": 16,
 				"code": 58884,
-				"name": "indeterminate-check-box"
+				"name": "indeter-checkbox"
 			},
 			"setIdx": 2,
 			"setId": 28,
@@ -4264,7 +4264,7 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"ic_keyboard_voice_24px"
+					"sui-voice"
 				]
 			},
 			"attrs": [
@@ -4275,7 +4275,7 @@
 				"id": 49,
 				"prevSize": 16,
 				"code": 58975,
-				"name": "ic_keyboard_voice_24px"
+				"name": "voice"
 			},
 			"setIdx": 7,
 			"setId": 23,
@@ -4292,7 +4292,7 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"ic_phone_android_24px"
+					"sui-phone-android"
 				]
 			},
 			"attrs": [
@@ -4303,7 +4303,7 @@
 				"id": 35,
 				"prevSize": 16,
 				"code": 58976,
-				"name": "ic_phone_android_24px"
+				"name": "phone-android"
 			},
 			"setIdx": 7,
 			"setId": 23,

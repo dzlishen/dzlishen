@@ -359,7 +359,7 @@
 	height: 32px;
 	background-position: -288px -192px;
 }
-.sui-icon-indeterminate-check-box {
+.sui-icon-indeter-checkbox {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -192px;
@@ -759,12 +759,12 @@
 	height: 32px;
 	background-position: -288px -432px;
 }
-.sui-icon-ic_keyboard_voice_24px {
+.sui-icon-voice {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -432px;
 }
-.sui-icon-ic_phone_android_24px {
+.sui-icon-phone-android {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -432px;

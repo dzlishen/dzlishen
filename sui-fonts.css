@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'sinoUI';
-	src:url('fonts/sinoUI.eot?85ga77');
-	src:url('fonts/sinoUI.eot?#iefix85ga77') format('embedded-opentype'),
-		url('fonts/sinoUI.ttf?85ga77') format('truetype'),
-		url('fonts/sinoUI.woff?85ga77') format('woff'),
-		url('fonts/sinoUI.svg?85ga77#sinoUI') format('svg');
+	src:url('fonts/sinoUI.eot?2nkmgn');
+	src:url('fonts/sinoUI.eot?#iefix2nkmgn') format('embedded-opentype'),
+		url('fonts/sinoUI.ttf?2nkmgn') format('truetype'),
+		url('fonts/sinoUI.woff?2nkmgn') format('woff'),
+		url('fonts/sinoUI.svg?2nkmgn#sinoUI') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -236,7 +236,7 @@
 .sui-icon-checkbox-outline-blank:before {
 	content: "\e603";
 }
-.sui-icon-indeterminate-check-box:before {
+.sui-icon-indeter-checkbox:before {
 	content: "\e604";
 }
 .sui-icon-radio-checked:before {
@@ -476,10 +476,10 @@
 .sui-icon-keyboard-backspace:before {
 	content: "\e65e";
 }
-.sui-icon-ic_keyboard_voice_24px:before {
+.sui-icon-voice:before {
 	content: "\e65f";
 }
-.sui-icon-ic_phone_android_24px:before {
+.sui-icon-phone-android:before {
 	content: "\e660";
 }
 .sui-icon-attachment:before {
