@@ -1,0 +1,22 @@
+.icon {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	fill: currentColor;
+	background-color: #ffffff;
+}
+
+/* ================================================================================
+Example showing how to change the color/size of the icons:
+.sui-icon-name {
+	font-size: 32px; // works because "width" & "height" were set using em units
+	color: red; // works because "fill" was set to "currentColor"
+}
+================================================================================ */
+
+#sui-icon-logo .path1 {
+	fill: rgb(216, 41, 43);
+}
+#sui-icon-logo .path2 {
+	fill: rgb(16, 124, 191);
+}
