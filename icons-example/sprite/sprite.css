@@ -5,1342 +5,1392 @@
 	background-color: #ffffff;
 }
 .sui-icon-save3 {
-	width: 48px;
-	height: 48px;
+	width: 32px;
+	height: 32px;
 	background-position: 0 0;
 }
 .sui-icon-save-full {
-	width: 48px;
-	height: 48px;
-	background-position: -64px 0;
+	width: 32px;
+	height: 32px;
+	background-position: -48px 0;
 }
 .sui-icon-email2 {
-	width: 48px;
-	height: 48px;
-	background-position: -128px 0;
+	width: 32px;
+	height: 32px;
+	background-position: -96px 0;
 }
 .sui-icon-email-full {
-	width: 48px;
-	height: 48px;
-	background-position: -192px 0;
+	width: 32px;
+	height: 32px;
+	background-position: -144px 0;
 }
 .sui-icon-delete3 {
-	width: 48px;
-	height: 48px;
-	background-position: -256px 0;
+	width: 32px;
+	height: 32px;
+	background-position: -192px 0;
 }
 .sui-icon-delete-full {
-	width: 48px;
-	height: 48px;
-	background-position: -320px 0;
+	width: 32px;
+	height: 32px;
+	background-position: -240px 0;
 }
 .sui-icon-minus-circle {
-	width: 48px;
-	height: 48px;
-	background-position: -384px 0;
+	width: 32px;
+	height: 32px;
+	background-position: -288px 0;
 }
 .sui-icon-minus-outline {
-	width: 48px;
-	height: 48px;
-	background-position: -448px 0;
+	width: 32px;
+	height: 32px;
+	background-position: -336px 0;
 }
 .sui-icon-plus-circle {
-	width: 48px;
-	height: 48px;
-	background-position: -512px 0;
+	width: 32px;
+	height: 32px;
+	background-position: -384px 0;
 }
 .sui-icon-plus-outline {
-	width: 48px;
-	height: 48px;
-	background-position: -576px 0;
+	width: 32px;
+	height: 32px;
+	background-position: -432px 0;
 }
 .sui-icon-ok-circle {
-	width: 48px;
-	height: 48px;
-	background-position: -640px 0;
+	width: 32px;
+	height: 32px;
+	background-position: -480px 0;
 }
 .sui-icon-ok-outline {
-	width: 48px;
-	height: 48px;
-	background-position: -704px 0;
+	width: 32px;
+	height: 32px;
+	background-position: -528px 0;
 }
 .sui-icon-flag2 {
-	width: 48px;
-	height: 48px;
-	background-position: -768px 0;
+	width: 32px;
+	height: 32px;
+	background-position: -576px 0;
 }
 .sui-icon-share2 {
-	width: 48px;
-	height: 48px;
-	background-position: -832px 0;
+	width: 32px;
+	height: 32px;
+	background-position: -624px 0;
 }
 .sui-icon-reply2 {
-	width: 48px;
-	height: 48px;
-	background-position: -896px 0;
+	width: 32px;
+	height: 32px;
+	background-position: -672px 0;
 }
 .sui-icon-disk {
-	width: 48px;
-	height: 48px;
-	background-position: -960px 0;
+	width: 32px;
+	height: 32px;
+	background-position: -720px 0;
 }
 .sui-icon-folder2 {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -64px;
+	width: 32px;
+	height: 32px;
+	background-position: 0 -48px;
 }
 .sui-icon-man {
-	width: 48px;
-	height: 48px;
-	background-position: -64px -64px;
+	width: 32px;
+	height: 32px;
+	background-position: -48px -48px;
 }
 .sui-icon-map-direction {
-	width: 48px;
-	height: 48px;
-	background-position: -128px -64px;
+	width: 32px;
+	height: 32px;
+	background-position: -96px -48px;
 }
 .sui-icon-write {
-	width: 48px;
-	height: 48px;
-	background-position: -192px -64px;
+	width: 32px;
+	height: 32px;
+	background-position: -144px -48px;
 }
 .sui-icon-directory {
-	width: 48px;
-	height: 48px;
-	background-position: -256px -64px;
+	width: 32px;
+	height: 32px;
+	background-position: -192px -48px;
 }
 .sui-icon-directory-open {
-	width: 48px;
-	height: 48px;
-	background-position: -320px -64px;
+	width: 32px;
+	height: 32px;
+	background-position: -240px -48px;
 }
 .sui-icon-barcode {
-	width: 48px;
-	height: 48px;
-	background-position: -384px -64px;
+	width: 32px;
+	height: 32px;
+	background-position: -288px -48px;
 }
 .sui-icon-qrcode {
-	width: 48px;
-	height: 48px;
-	background-position: -448px -64px;
+	width: 32px;
+	height: 32px;
+	background-position: -336px -48px;
 }
 .sui-icon-drawer {
-	width: 48px;
-	height: 48px;
-	background-position: -512px -64px;
+	width: 32px;
+	height: 32px;
+	background-position: -384px -48px;
 }
 .sui-icon-drawer2 {
-	width: 48px;
-	height: 48px;
-	background-position: -576px -64px;
+	width: 32px;
+	height: 32px;
+	background-position: -432px -48px;
 }
 .sui-icon-save2 {
-	width: 48px;
-	height: 48px;
-	background-position: -640px -64px;
+	width: 32px;
+	height: 32px;
+	background-position: -480px -48px;
+}
+.sui-icon-undo2 {
+	width: 32px;
+	height: 32px;
+	background-position: -528px -48px;
+}
+.sui-icon-redo2 {
+	width: 32px;
+	height: 32px;
+	background-position: -576px -48px;
+}
+.sui-icon-forward2 {
+	width: 32px;
+	height: 32px;
+	background-position: -624px -48px;
+}
+.sui-icon-reply3 {
+	width: 32px;
+	height: 32px;
+	background-position: -672px -48px;
 }
 .sui-icon-user-plus {
-	width: 48px;
-	height: 48px;
-	background-position: -704px -64px;
+	width: 32px;
+	height: 32px;
+	background-position: -720px -48px;
 }
 .sui-icon-user-minus {
-	width: 48px;
-	height: 48px;
-	background-position: -768px -64px;
+	width: 32px;
+	height: 32px;
+	background-position: 0 -96px;
 }
 .sui-icon-spinner {
-	width: 48px;
-	height: 48px;
-	background-position: -832px -64px;
+	width: 32px;
+	height: 32px;
+	background-position: -48px -96px;
 }
 .sui-icon-spinner2 {
-	width: 48px;
-	height: 48px;
-	background-position: -896px -64px;
+	width: 32px;
+	height: 32px;
+	background-position: -96px -96px;
 }
 .sui-icon-spinner3 {
-	width: 48px;
-	height: 48px;
-	background-position: -960px -64px;
+	width: 32px;
+	height: 32px;
+	background-position: -144px -96px;
 }
 .sui-icon-spinner4 {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -128px;
+	width: 32px;
+	height: 32px;
+	background-position: -192px -96px;
 }
 .sui-icon-spinner5 {
-	width: 48px;
-	height: 48px;
-	background-position: -64px -128px;
+	width: 32px;
+	height: 32px;
+	background-position: -240px -96px;
 }
 .sui-icon-spinner6 {
-	width: 48px;
-	height: 48px;
-	background-position: -128px -128px;
+	width: 32px;
+	height: 32px;
+	background-position: -288px -96px;
 }
 .sui-icon-spinner7 {
-	width: 48px;
-	height: 48px;
-	background-position: -192px -128px;
+	width: 32px;
+	height: 32px;
+	background-position: -336px -96px;
 }
 .sui-icon-spinner8 {
-	width: 48px;
-	height: 48px;
-	background-position: -256px -128px;
+	width: 32px;
+	height: 32px;
+	background-position: -384px -96px;
 }
 .sui-icon-spinner9 {
-	width: 48px;
-	height: 48px;
-	background-position: -320px -128px;
+	width: 32px;
+	height: 32px;
+	background-position: -432px -96px;
 }
 .sui-icon-spinner10 {
-	width: 48px;
-	height: 48px;
-	background-position: -384px -128px;
+	width: 32px;
+	height: 32px;
+	background-position: -480px -96px;
 }
 .sui-icon-spinner11 {
-	width: 48px;
-	height: 48px;
-	background-position: -448px -128px;
+	width: 32px;
+	height: 32px;
+	background-position: -528px -96px;
 }
 .sui-icon-delete2 {
-	width: 48px;
-	height: 48px;
-	background-position: -512px -128px;
+	width: 32px;
+	height: 32px;
+	background-position: -576px -96px;
 }
 .sui-icon-delete22 {
-	width: 48px;
-	height: 48px;
-	background-position: -576px -128px;
+	width: 32px;
+	height: 32px;
+	background-position: -624px -96px;
+}
+.sui-icon-tree {
+	width: 32px;
+	height: 32px;
+	background-position: -672px -96px;
 }
 .sui-icon-mark {
-	width: 48px;
-	height: 48px;
-	background-position: -640px -128px;
+	width: 32px;
+	height: 32px;
+	background-position: -720px -96px;
 }
 .sui-icon-paperclip {
-	width: 48px;
-	height: 48px;
-	background-position: -704px -128px;
+	width: 32px;
+	height: 32px;
+	background-position: 0 -144px;
 }
 .sui-icon-plus {
-	width: 48px;
-	height: 48px;
-	background-position: -768px -128px;
+	width: 32px;
+	height: 32px;
+	background-position: -48px -144px;
 }
 .sui-icon-minus {
-	width: 48px;
-	height: 48px;
-	background-position: -832px -128px;
+	width: 32px;
+	height: 32px;
+	background-position: -96px -144px;
 }
 .sui-icon-cross {
-	width: 48px;
-	height: 48px;
-	background-position: -896px -128px;
+	width: 32px;
+	height: 32px;
+	background-position: -144px -144px;
 }
 .sui-icon-checkmark {
-	width: 48px;
-	height: 48px;
-	background-position: -960px -128px;
+	width: 32px;
+	height: 32px;
+	background-position: -192px -144px;
 }
 .sui-icon-arrow-up {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -192px;
+	width: 32px;
+	height: 32px;
+	background-position: -240px -144px;
 }
 .sui-icon-arrow-down {
-	width: 48px;
-	height: 48px;
-	background-position: -64px -192px;
+	width: 32px;
+	height: 32px;
+	background-position: -288px -144px;
+}
+.sui-icon-circle-up {
+	width: 32px;
+	height: 32px;
+	background-position: -336px -144px;
+}
+.sui-icon-circle-right {
+	width: 32px;
+	height: 32px;
+	background-position: -384px -144px;
+}
+.sui-icon-circle-down {
+	width: 32px;
+	height: 32px;
+	background-position: -432px -144px;
+}
+.sui-icon-circle-left {
+	width: 32px;
+	height: 32px;
+	background-position: -480px -144px;
 }
 .sui-icon-apple {
-	width: 48px;
-	height: 48px;
-	background-position: -128px -192px;
-}
-.sui-icon-html5 {
-	width: 48px;
-	height: 48px;
-	background-position: -192px -192px;
-}
-.sui-icon-html52 {
-	width: 48px;
-	height: 48px;
-	background-position: -256px -192px;
-}
-.sui-icon-chrome {
-	width: 48px;
-	height: 48px;
-	background-position: -320px -192px;
-}
-.sui-icon-firefox {
-	width: 48px;
-	height: 48px;
-	background-position: -384px -192px;
-}
-.sui-icon-ie {
-	width: 48px;
-	height: 48px;
-	background-position: -448px -192px;
-}
-.sui-icon-opera {
-	width: 48px;
-	height: 48px;
-	background-position: -512px -192px;
-}
-.sui-icon-safari {
-	width: 48px;
-	height: 48px;
-	background-position: -576px -192px;
-}
-.sui-icon-checkbox {
-	width: 48px;
-	height: 48px;
-	background-position: -640px -192px;
-}
-.sui-icon-checkbox-outline-blank {
-	width: 48px;
-	height: 48px;
-	background-position: -704px -192px;
-}
-.sui-icon-indeterminate-check-box {
-	width: 48px;
-	height: 48px;
-	background-position: -768px -192px;
-}
-.sui-icon-radio-checked {
-	width: 48px;
-	height: 48px;
-	background-position: -832px -192px;
-}
-.sui-icon-radio-unchecked {
-	width: 48px;
-	height: 48px;
-	background-position: -896px -192px;
-}
-.sui-icon-star {
-	width: 48px;
-	height: 48px;
-	background-position: -960px -192px;
-}
-.sui-icon-star-border {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -256px;
-}
-.sui-icon-star-half {
-	width: 48px;
-	height: 48px;
-	background-position: -64px -256px;
-}
-.sui-icon-group {
-	width: 48px;
-	height: 48px;
-	background-position: -128px -256px;
-}
-.sui-icon-group-add {
-	width: 48px;
-	height: 48px;
-	background-position: -192px -256px;
-}
-.sui-icon-mood {
-	width: 48px;
-	height: 48px;
-	background-position: -256px -256px;
-}
-.sui-icon-mood-bad {
-	width: 48px;
-	height: 48px;
-	background-position: -320px -256px;
-}
-.sui-icon-people {
-	width: 48px;
-	height: 48px;
-	background-position: -384px -256px;
-}
-.sui-icon-peopl-outline {
-	width: 48px;
-	height: 48px;
-	background-position: -448px -256px;
-}
-.sui-icon-person {
-	width: 48px;
-	height: 48px;
-	background-position: -512px -256px;
-}
-.sui-icon-person-add {
-	width: 48px;
-	height: 48px;
-	background-position: -576px -256px;
-}
-.sui-icon-person-outline {
-	width: 48px;
-	height: 48px;
-	background-position: -640px -256px;
-}
-.sui-icon-plus-one {
-	width: 48px;
-	height: 48px;
-	background-position: -704px -256px;
-}
-.sui-icon-share {
-	width: 48px;
-	height: 48px;
-	background-position: -768px -256px;
-}
-.sui-icon-sync {
-	width: 48px;
-	height: 48px;
-	background-position: -832px -256px;
-}
-.sui-icon-apps {
-	width: 48px;
-	height: 48px;
-	background-position: -896px -256px;
-}
-.sui-icon-arrow-back {
-	width: 48px;
-	height: 48px;
-	background-position: -960px -256px;
-}
-.sui-icon-arrow-dropdown {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -320px;
-}
-.sui-icon-arrow-dropdown-circle {
-	width: 48px;
-	height: 48px;
-	background-position: -64px -320px;
-}
-.sui-icon-arrow-dropup {
-	width: 48px;
-	height: 48px;
-	background-position: -128px -320px;
-}
-.sui-icon-arrow-forward {
-	width: 48px;
-	height: 48px;
-	background-position: -192px -320px;
-}
-.sui-icon-cancel {
-	width: 48px;
-	height: 48px;
-	background-position: -256px -320px;
-}
-.sui-icon-check {
-	width: 48px;
-	height: 48px;
-	background-position: -320px -320px;
-}
-.sui-icon-chevron-left {
-	width: 48px;
-	height: 48px;
-	background-position: -384px -320px;
-}
-.sui-icon-chevron-right {
-	width: 48px;
-	height: 48px;
-	background-position: -448px -320px;
-}
-.sui-icon-close {
-	width: 48px;
-	height: 48px;
-	background-position: -512px -320px;
-}
-.sui-icon-expand-less {
-	width: 48px;
-	height: 48px;
-	background-position: -576px -320px;
-}
-.sui-icon-expand-more {
-	width: 48px;
-	height: 48px;
-	background-position: -640px -320px;
-}
-.sui-icon-menu {
-	width: 48px;
-	height: 48px;
-	background-position: -704px -320px;
-}
-.sui-icon-more-horiz {
-	width: 48px;
-	height: 48px;
-	background-position: -768px -320px;
-}
-.sui-icon-more-vert {
-	width: 48px;
-	height: 48px;
-	background-position: -832px -320px;
-}
-.sui-icon-refresh {
-	width: 48px;
-	height: 48px;
-	background-position: -896px -320px;
-}
-.sui-icon-pindrop {
-	width: 48px;
-	height: 48px;
-	background-position: -960px -320px;
-}
-.sui-icon-place {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -384px;
-}
-.sui-icon-adjust {
-	width: 48px;
-	height: 48px;
-	background-position: -64px -384px;
-}
-.sui-icon-assistant-photo {
-	width: 48px;
-	height: 48px;
-	background-position: -128px -384px;
-}
-.sui-icon-brush {
-	width: 48px;
-	height: 48px;
-	background-position: -192px -384px;
-}
-.sui-icon-camera {
-	width: 48px;
-	height: 48px;
-	background-position: -256px -384px;
-}
-.sui-icon-camera-alt {
-	width: 48px;
-	height: 48px;
-	background-position: -320px -384px;
-}
-.sui-icon-control-point {
-	width: 48px;
-	height: 48px;
-	background-position: -384px -384px;
-}
-.sui-icon-crop-din {
-	width: 48px;
-	height: 48px;
-	background-position: -448px -384px;
-}
-.sui-icon-crop-square {
-	width: 48px;
-	height: 48px;
-	background-position: -512px -384px;
-}
-.sui-icon-dehaze {
-	width: 48px;
-	height: 48px;
-	background-position: -576px -384px;
-}
-.sui-icon-edit {
-	width: 48px;
-	height: 48px;
-	background-position: -640px -384px;
-}
-.sui-icon-exposure-neg-1 {
-	width: 48px;
-	height: 48px;
-	background-position: -704px -384px;
-}
-.sui-icon-exposure-neg-2 {
-	width: 48px;
-	height: 48px;
-	background-position: -768px -384px;
-}
-.sui-icon-exposure-plus-1 {
-	width: 48px;
-	height: 48px;
-	background-position: -832px -384px;
-}
-.sui-icon-exposure-plus-2 {
-	width: 48px;
-	height: 48px;
-	background-position: -896px -384px;
-}
-.sui-icon-exposure-zero {
-	width: 48px;
-	height: 48px;
-	background-position: -960px -384px;
-}
-.sui-icon-filter-1 {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -448px;
-}
-.sui-icon-filter-2 {
-	width: 48px;
-	height: 48px;
-	background-position: -64px -448px;
-}
-.sui-icon-filter-3 {
-	width: 48px;
-	height: 48px;
-	background-position: -128px -448px;
-}
-.sui-icon-filter-4 {
-	width: 48px;
-	height: 48px;
-	background-position: -192px -448px;
-}
-.sui-icon-filter-5 {
-	width: 48px;
-	height: 48px;
-	background-position: -256px -448px;
-}
-.sui-icon-filter-6 {
-	width: 48px;
-	height: 48px;
-	background-position: -320px -448px;
-}
-.sui-icon-filter-7 {
-	width: 48px;
-	height: 48px;
-	background-position: -384px -448px;
-}
-.sui-icon-filter-8 {
-	width: 48px;
-	height: 48px;
-	background-position: -448px -448px;
-}
-.sui-icon-filter-9 {
-	width: 48px;
-	height: 48px;
-	background-position: -512px -448px;
-}
-.sui-icon-filter-drama {
-	width: 48px;
-	height: 48px;
-	background-position: -576px -448px;
-}
-.sui-icon-filter-tilt-shift {
-	width: 48px;
-	height: 48px;
-	background-position: -640px -448px;
-}
-.sui-icon-navigate-before {
-	width: 48px;
-	height: 48px;
-	background-position: -704px -448px;
-}
-.sui-icon-navigate-next {
-	width: 48px;
-	height: 48px;
-	background-position: -768px -448px;
-}
-.sui-icon-panorama-fisheye {
-	width: 48px;
-	height: 48px;
-	background-position: -832px -448px;
-}
-.sui-icon-photo-camera {
-	width: 48px;
-	height: 48px;
-	background-position: -896px -448px;
-}
-.sui-icon-remove-redeye {
-	width: 48px;
-	height: 48px;
-	background-position: -960px -448px;
-}
-.sui-icon-rotate-left {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -512px;
-}
-.sui-icon-rotate-right {
-	width: 48px;
-	height: 48px;
-	background-position: -64px -512px;
-}
-.sui-icon-wbcloudy {
-	width: 48px;
-	height: 48px;
-	background-position: -128px -512px;
-}
-.sui-icon-computer {
-	width: 48px;
-	height: 48px;
-	background-position: -192px -512px;
-}
-.sui-icon-desktop-mac {
-	width: 48px;
-	height: 48px;
-	background-position: -256px -512px;
-}
-.sui-icon-desktop-windows {
-	width: 48px;
-	height: 48px;
-	background-position: -320px -512px;
-}
-.sui-icon-dock {
-	width: 48px;
-	height: 48px;
-	background-position: -384px -512px;
-}
-.sui-icon-keyboard-arrow-down {
-	width: 48px;
-	height: 48px;
-	background-position: -448px -512px;
-}
-.sui-icon-keyboard-arrow-left {
-	width: 48px;
-	height: 48px;
-	background-position: -512px -512px;
-}
-.sui-icon-keyboard-arrow-right {
-	width: 48px;
-	height: 48px;
-	background-position: -576px -512px;
-}
-.sui-icon-keyboard-arrow-up {
-	width: 48px;
-	height: 48px;
-	background-position: -640px -512px;
-}
-.sui-icon-keyboard-backspace {
-	width: 48px;
-	height: 48px;
-	background-position: -704px -512px;
-}
-.sui-icon-ic_keyboard_voice_24px {
-	width: 48px;
-	height: 48px;
-	background-position: -768px -512px;
-}
-.sui-icon-ic_phone_android_24px {
-	width: 48px;
-	height: 48px;
-	background-position: -832px -512px;
-}
-.sui-icon-attachment {
-	width: 48px;
-	height: 48px;
-	background-position: -896px -512px;
-}
-.sui-icon-cloud {
-	width: 48px;
-	height: 48px;
-	background-position: -960px -512px;
-}
-.sui-icon-cloud-circle {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -576px;
-}
-.sui-icon-cloud-done {
-	width: 48px;
-	height: 48px;
-	background-position: -64px -576px;
-}
-.sui-icon-cloud-download {
-	width: 48px;
-	height: 48px;
-	background-position: -128px -576px;
-}
-.sui-icon-cloud-off {
-	width: 48px;
-	height: 48px;
-	background-position: -192px -576px;
-}
-.sui-icon-cloud-queue {
-	width: 48px;
-	height: 48px;
-	background-position: -256px -576px;
-}
-.sui-icon-cloud-upload {
-	width: 48px;
-	height: 48px;
-	background-position: -320px -576px;
-}
-.sui-icon-file-download {
-	width: 48px;
-	height: 48px;
-	background-position: -384px -576px;
-}
-.sui-icon-file-upload {
-	width: 48px;
-	height: 48px;
-	background-position: -448px -576px;
-}
-.sui-icon-folder {
-	width: 48px;
-	height: 48px;
-	background-position: -512px -576px;
-}
-.sui-icon-folder-open {
-	width: 48px;
-	height: 48px;
-	background-position: -576px -576px;
-}
-.sui-icon-folder-shared {
-	width: 48px;
-	height: 48px;
-	background-position: -640px -576px;
-}
-.sui-icon-attachfile {
-	width: 48px;
-	height: 48px;
-	background-position: -704px -576px;
-}
-.sui-icon-bordercolor {
-	width: 48px;
-	height: 48px;
-	background-position: -768px -576px;
-}
-.sui-icon-modeedit {
-	width: 48px;
-	height: 48px;
-	background-position: -832px -576px;
-}
-.sui-icon-add {
-	width: 48px;
-	height: 48px;
-	background-position: -896px -576px;
-}
-.sui-icon-add-box {
-	width: 48px;
-	height: 48px;
-	background-position: -960px -576px;
-}
-.sui-icon-add-circle {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -640px;
-}
-.sui-icon-add-circle-outline {
-	width: 48px;
-	height: 48px;
-	background-position: -64px -640px;
-}
-.sui-icon-backspace {
-	width: 48px;
-	height: 48px;
-	background-position: -128px -640px;
-}
-.sui-icon-block {
-	width: 48px;
-	height: 48px;
-	background-position: -192px -640px;
-}
-.sui-icon-clear {
-	width: 48px;
-	height: 48px;
-	background-position: -256px -640px;
-}
-.sui-icon-create {
-	width: 48px;
-	height: 48px;
-	background-position: -320px -640px;
-}
-.sui-icon-flag {
-	width: 48px;
-	height: 48px;
-	background-position: -384px -640px;
-}
-.sui-icon-forward {
-	width: 48px;
-	height: 48px;
-	background-position: -448px -640px;
-}
-.sui-icon-inbox {
-	width: 48px;
-	height: 48px;
-	background-position: -512px -640px;
-}
-.sui-icon-link {
-	width: 48px;
-	height: 48px;
-	background-position: -576px -640px;
-}
-.sui-icon-mail {
-	width: 48px;
-	height: 48px;
-	background-position: -640px -640px;
-}
-.sui-icon-redo {
-	width: 48px;
-	height: 48px;
-	background-position: -704px -640px;
-}
-.sui-icon-remove {
-	width: 48px;
-	height: 48px;
-	background-position: -768px -640px;
-}
-.sui-icon-remove-circle {
-	width: 48px;
-	height: 48px;
-	background-position: -832px -640px;
-}
-.sui-icon-remove-circle-outline {
-	width: 48px;
-	height: 48px;
-	background-position: -896px -640px;
-}
-.sui-icon-reply {
-	width: 48px;
-	height: 48px;
-	background-position: -960px -640px;
-}
-.sui-icon-reply-all {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -704px;
-}
-.sui-icon-report {
-	width: 48px;
-	height: 48px;
-	background-position: -64px -704px;
-}
-.sui-icon-save {
-	width: 48px;
-	height: 48px;
-	background-position: -128px -704px;
-}
-.sui-icon-send {
-	width: 48px;
-	height: 48px;
-	background-position: -192px -704px;
-}
-.sui-icon-undo {
-	width: 48px;
-	height: 48px;
-	background-position: -256px -704px;
-}
-.sui-icon-contact-mail {
-	width: 48px;
-	height: 48px;
-	background-position: -320px -704px;
-}
-.sui-icon-call {
-	width: 48px;
-	height: 48px;
-	background-position: -384px -704px;
-}
-.sui-icon-call-end {
-	width: 48px;
-	height: 48px;
-	background-position: -448px -704px;
-}
-.sui-icon-chat {
-	width: 48px;
-	height: 48px;
-	background-position: -512px -704px;
-}
-.sui-icon-chat-bubble {
-	width: 48px;
-	height: 48px;
-	background-position: -576px -704px;
-}
-.sui-icon-chat-bubble-outline {
-	width: 48px;
-	height: 48px;
-	background-position: -640px -704px;
-}
-.sui-icon-comment {
-	width: 48px;
-	height: 48px;
-	background-position: -704px -704px;
-}
-.sui-icon-contact-phone {
-	width: 48px;
-	height: 48px;
-	background-position: -768px -704px;
-}
-.sui-icon-contacts {
-	width: 48px;
-	height: 48px;
-	background-position: -832px -704px;
-}
-.sui-icon-email {
-	width: 48px;
-	height: 48px;
-	background-position: -896px -704px;
-}
-.sui-icon-location-on {
-	width: 48px;
-	height: 48px;
-	background-position: -960px -704px;
-}
-.sui-icon-phone {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -768px;
-}
-.sui-icon-videocam {
-	width: 48px;
-	height: 48px;
-	background-position: -64px -768px;
-}
-.sui-icon-videocam-off {
-	width: 48px;
-	height: 48px;
-	background-position: -128px -768px;
-}
-.sui-icon-error {
-	width: 48px;
-	height: 48px;
-	background-position: -192px -768px;
-}
-.sui-icon-error-outline {
-	width: 48px;
-	height: 48px;
-	background-position: -256px -768px;
-}
-.sui-icon-warning {
-	width: 48px;
-	height: 48px;
-	background-position: -320px -768px;
-}
-.sui-icon-account-box {
-	width: 48px;
-	height: 48px;
-	background-position: -384px -768px;
-}
-.sui-icon-account-circle {
-	width: 48px;
-	height: 48px;
-	background-position: -448px -768px;
-}
-.sui-icon-add-shopping-cart {
-	width: 48px;
-	height: 48px;
-	background-position: -512px -768px;
+	width: 32px;
+	height: 32px;
+	background-position: -528px -144px;
 }
 .sui-icon-android {
-	width: 48px;
-	height: 48px;
-	background-position: -576px -768px;
+	width: 32px;
+	height: 32px;
+	background-position: -576px -144px;
+}
+.sui-icon-windows {
+	width: 32px;
+	height: 32px;
+	background-position: -624px -144px;
+}
+.sui-icon-html5 {
+	width: 32px;
+	height: 32px;
+	background-position: -672px -144px;
+}
+.sui-icon-html52 {
+	width: 32px;
+	height: 32px;
+	background-position: -720px -144px;
+}
+.sui-icon-chrome {
+	width: 32px;
+	height: 32px;
+	background-position: 0 -192px;
+}
+.sui-icon-firefox {
+	width: 32px;
+	height: 32px;
+	background-position: -48px -192px;
+}
+.sui-icon-ie {
+	width: 32px;
+	height: 32px;
+	background-position: -96px -192px;
+}
+.sui-icon-opera {
+	width: 32px;
+	height: 32px;
+	background-position: -144px -192px;
+}
+.sui-icon-safari {
+	width: 32px;
+	height: 32px;
+	background-position: -192px -192px;
+}
+.sui-icon-checkbox {
+	width: 32px;
+	height: 32px;
+	background-position: -240px -192px;
+}
+.sui-icon-checkbox-outline-blank {
+	width: 32px;
+	height: 32px;
+	background-position: -288px -192px;
+}
+.sui-icon-indeterminate-check-box {
+	width: 32px;
+	height: 32px;
+	background-position: -336px -192px;
+}
+.sui-icon-radio-checked {
+	width: 32px;
+	height: 32px;
+	background-position: -384px -192px;
+}
+.sui-icon-radio-unchecked {
+	width: 32px;
+	height: 32px;
+	background-position: -432px -192px;
+}
+.sui-icon-star {
+	width: 32px;
+	height: 32px;
+	background-position: -480px -192px;
+}
+.sui-icon-star-border {
+	width: 32px;
+	height: 32px;
+	background-position: -528px -192px;
+}
+.sui-icon-star-half {
+	width: 32px;
+	height: 32px;
+	background-position: -576px -192px;
+}
+.sui-icon-group {
+	width: 32px;
+	height: 32px;
+	background-position: -624px -192px;
+}
+.sui-icon-group-add {
+	width: 32px;
+	height: 32px;
+	background-position: -672px -192px;
+}
+.sui-icon-mood {
+	width: 32px;
+	height: 32px;
+	background-position: -720px -192px;
+}
+.sui-icon-mood-bad {
+	width: 32px;
+	height: 32px;
+	background-position: 0 -240px;
+}
+.sui-icon-people {
+	width: 32px;
+	height: 32px;
+	background-position: -48px -240px;
+}
+.sui-icon-peopl-outline {
+	width: 32px;
+	height: 32px;
+	background-position: -96px -240px;
+}
+.sui-icon-person {
+	width: 32px;
+	height: 32px;
+	background-position: -144px -240px;
+}
+.sui-icon-person-add {
+	width: 32px;
+	height: 32px;
+	background-position: -192px -240px;
+}
+.sui-icon-person-outline {
+	width: 32px;
+	height: 32px;
+	background-position: -240px -240px;
+}
+.sui-icon-plus-one {
+	width: 32px;
+	height: 32px;
+	background-position: -288px -240px;
+}
+.sui-icon-share {
+	width: 32px;
+	height: 32px;
+	background-position: -336px -240px;
+}
+.sui-icon-sync {
+	width: 32px;
+	height: 32px;
+	background-position: -384px -240px;
+}
+.sui-icon-apps {
+	width: 32px;
+	height: 32px;
+	background-position: -432px -240px;
+}
+.sui-icon-arrow-back {
+	width: 32px;
+	height: 32px;
+	background-position: -480px -240px;
+}
+.sui-icon-arrow-dropdown {
+	width: 32px;
+	height: 32px;
+	background-position: -528px -240px;
+}
+.sui-icon-arrow-dropdown-circle {
+	width: 32px;
+	height: 32px;
+	background-position: -576px -240px;
+}
+.sui-icon-arrow-dropup {
+	width: 32px;
+	height: 32px;
+	background-position: -624px -240px;
+}
+.sui-icon-arrow-forward {
+	width: 32px;
+	height: 32px;
+	background-position: -672px -240px;
+}
+.sui-icon-cancel {
+	width: 32px;
+	height: 32px;
+	background-position: -720px -240px;
+}
+.sui-icon-check {
+	width: 32px;
+	height: 32px;
+	background-position: 0 -288px;
+}
+.sui-icon-chevron-left {
+	width: 32px;
+	height: 32px;
+	background-position: -48px -288px;
+}
+.sui-icon-chevron-right {
+	width: 32px;
+	height: 32px;
+	background-position: -96px -288px;
+}
+.sui-icon-close {
+	width: 32px;
+	height: 32px;
+	background-position: -144px -288px;
+}
+.sui-icon-expand-less {
+	width: 32px;
+	height: 32px;
+	background-position: -192px -288px;
+}
+.sui-icon-expand-more {
+	width: 32px;
+	height: 32px;
+	background-position: -240px -288px;
+}
+.sui-icon-menu {
+	width: 32px;
+	height: 32px;
+	background-position: -288px -288px;
+}
+.sui-icon-more-horiz {
+	width: 32px;
+	height: 32px;
+	background-position: -336px -288px;
+}
+.sui-icon-more-vert {
+	width: 32px;
+	height: 32px;
+	background-position: -384px -288px;
+}
+.sui-icon-refresh {
+	width: 32px;
+	height: 32px;
+	background-position: -432px -288px;
+}
+.sui-icon-pindrop {
+	width: 32px;
+	height: 32px;
+	background-position: -480px -288px;
+}
+.sui-icon-place {
+	width: 32px;
+	height: 32px;
+	background-position: -528px -288px;
+}
+.sui-icon-adjust {
+	width: 32px;
+	height: 32px;
+	background-position: -576px -288px;
+}
+.sui-icon-assistant-photo {
+	width: 32px;
+	height: 32px;
+	background-position: -624px -288px;
+}
+.sui-icon-brush {
+	width: 32px;
+	height: 32px;
+	background-position: -672px -288px;
+}
+.sui-icon-camera {
+	width: 32px;
+	height: 32px;
+	background-position: -720px -288px;
+}
+.sui-icon-camera-alt {
+	width: 32px;
+	height: 32px;
+	background-position: 0 -336px;
+}
+.sui-icon-control-point {
+	width: 32px;
+	height: 32px;
+	background-position: -48px -336px;
+}
+.sui-icon-crop-din {
+	width: 32px;
+	height: 32px;
+	background-position: -96px -336px;
+}
+.sui-icon-crop-square {
+	width: 32px;
+	height: 32px;
+	background-position: -144px -336px;
+}
+.sui-icon-dehaze {
+	width: 32px;
+	height: 32px;
+	background-position: -192px -336px;
+}
+.sui-icon-edit {
+	width: 32px;
+	height: 32px;
+	background-position: -240px -336px;
+}
+.sui-icon-exposure-neg-1 {
+	width: 32px;
+	height: 32px;
+	background-position: -288px -336px;
+}
+.sui-icon-exposure-neg-2 {
+	width: 32px;
+	height: 32px;
+	background-position: -336px -336px;
+}
+.sui-icon-exposure-plus-1 {
+	width: 32px;
+	height: 32px;
+	background-position: -384px -336px;
+}
+.sui-icon-exposure-plus-2 {
+	width: 32px;
+	height: 32px;
+	background-position: -432px -336px;
+}
+.sui-icon-exposure-zero {
+	width: 32px;
+	height: 32px;
+	background-position: -480px -336px;
+}
+.sui-icon-filter-1 {
+	width: 32px;
+	height: 32px;
+	background-position: -528px -336px;
+}
+.sui-icon-filter-2 {
+	width: 32px;
+	height: 32px;
+	background-position: -576px -336px;
+}
+.sui-icon-filter-3 {
+	width: 32px;
+	height: 32px;
+	background-position: -624px -336px;
+}
+.sui-icon-filter-4 {
+	width: 32px;
+	height: 32px;
+	background-position: -672px -336px;
+}
+.sui-icon-filter-5 {
+	width: 32px;
+	height: 32px;
+	background-position: -720px -336px;
+}
+.sui-icon-filter-6 {
+	width: 32px;
+	height: 32px;
+	background-position: 0 -384px;
+}
+.sui-icon-filter-7 {
+	width: 32px;
+	height: 32px;
+	background-position: -48px -384px;
+}
+.sui-icon-filter-8 {
+	width: 32px;
+	height: 32px;
+	background-position: -96px -384px;
+}
+.sui-icon-filter-9 {
+	width: 32px;
+	height: 32px;
+	background-position: -144px -384px;
+}
+.sui-icon-filter-drama {
+	width: 32px;
+	height: 32px;
+	background-position: -192px -384px;
+}
+.sui-icon-filter-tilt-shift {
+	width: 32px;
+	height: 32px;
+	background-position: -240px -384px;
+}
+.sui-icon-navigate-before {
+	width: 32px;
+	height: 32px;
+	background-position: -288px -384px;
+}
+.sui-icon-navigate-next {
+	width: 32px;
+	height: 32px;
+	background-position: -336px -384px;
+}
+.sui-icon-panorama-fisheye {
+	width: 32px;
+	height: 32px;
+	background-position: -384px -384px;
+}
+.sui-icon-photo-camera {
+	width: 32px;
+	height: 32px;
+	background-position: -432px -384px;
+}
+.sui-icon-remove-redeye {
+	width: 32px;
+	height: 32px;
+	background-position: -480px -384px;
+}
+.sui-icon-rotate-left {
+	width: 32px;
+	height: 32px;
+	background-position: -528px -384px;
+}
+.sui-icon-rotate-right {
+	width: 32px;
+	height: 32px;
+	background-position: -576px -384px;
+}
+.sui-icon-wbcloudy {
+	width: 32px;
+	height: 32px;
+	background-position: -624px -384px;
+}
+.sui-icon-computer {
+	width: 32px;
+	height: 32px;
+	background-position: -672px -384px;
+}
+.sui-icon-desktop-mac {
+	width: 32px;
+	height: 32px;
+	background-position: -720px -384px;
+}
+.sui-icon-desktop-windows {
+	width: 32px;
+	height: 32px;
+	background-position: 0 -432px;
+}
+.sui-icon-dock {
+	width: 32px;
+	height: 32px;
+	background-position: -48px -432px;
+}
+.sui-icon-keyboard-arrow-down {
+	width: 32px;
+	height: 32px;
+	background-position: -96px -432px;
+}
+.sui-icon-keyboard-arrow-left {
+	width: 32px;
+	height: 32px;
+	background-position: -144px -432px;
+}
+.sui-icon-keyboard-arrow-right {
+	width: 32px;
+	height: 32px;
+	background-position: -192px -432px;
+}
+.sui-icon-keyboard-arrow-up {
+	width: 32px;
+	height: 32px;
+	background-position: -240px -432px;
+}
+.sui-icon-keyboard-backspace {
+	width: 32px;
+	height: 32px;
+	background-position: -288px -432px;
+}
+.sui-icon-ic_keyboard_voice_24px {
+	width: 32px;
+	height: 32px;
+	background-position: -336px -432px;
+}
+.sui-icon-ic_phone_android_24px {
+	width: 32px;
+	height: 32px;
+	background-position: -384px -432px;
+}
+.sui-icon-attachment {
+	width: 32px;
+	height: 32px;
+	background-position: -432px -432px;
+}
+.sui-icon-cloud {
+	width: 32px;
+	height: 32px;
+	background-position: -480px -432px;
+}
+.sui-icon-cloud-circle {
+	width: 32px;
+	height: 32px;
+	background-position: -528px -432px;
+}
+.sui-icon-cloud-done {
+	width: 32px;
+	height: 32px;
+	background-position: -576px -432px;
+}
+.sui-icon-cloud-download {
+	width: 32px;
+	height: 32px;
+	background-position: -624px -432px;
+}
+.sui-icon-cloud-off {
+	width: 32px;
+	height: 32px;
+	background-position: -672px -432px;
+}
+.sui-icon-cloud-queue {
+	width: 32px;
+	height: 32px;
+	background-position: -720px -432px;
+}
+.sui-icon-cloud-upload {
+	width: 32px;
+	height: 32px;
+	background-position: 0 -480px;
+}
+.sui-icon-file-download {
+	width: 32px;
+	height: 32px;
+	background-position: -48px -480px;
+}
+.sui-icon-file-upload {
+	width: 32px;
+	height: 32px;
+	background-position: -96px -480px;
+}
+.sui-icon-folder {
+	width: 32px;
+	height: 32px;
+	background-position: -144px -480px;
+}
+.sui-icon-folder-open {
+	width: 32px;
+	height: 32px;
+	background-position: -192px -480px;
+}
+.sui-icon-folder-shared {
+	width: 32px;
+	height: 32px;
+	background-position: -240px -480px;
+}
+.sui-icon-attachfile {
+	width: 32px;
+	height: 32px;
+	background-position: -288px -480px;
+}
+.sui-icon-bordercolor {
+	width: 32px;
+	height: 32px;
+	background-position: -336px -480px;
+}
+.sui-icon-modeedit {
+	width: 32px;
+	height: 32px;
+	background-position: -384px -480px;
+}
+.sui-icon-add {
+	width: 32px;
+	height: 32px;
+	background-position: -432px -480px;
+}
+.sui-icon-add-box {
+	width: 32px;
+	height: 32px;
+	background-position: -480px -480px;
+}
+.sui-icon-add-circle {
+	width: 32px;
+	height: 32px;
+	background-position: -528px -480px;
+}
+.sui-icon-add-circle-outline {
+	width: 32px;
+	height: 32px;
+	background-position: -576px -480px;
+}
+.sui-icon-backspace {
+	width: 32px;
+	height: 32px;
+	background-position: -624px -480px;
+}
+.sui-icon-block {
+	width: 32px;
+	height: 32px;
+	background-position: -672px -480px;
+}
+.sui-icon-clear {
+	width: 32px;
+	height: 32px;
+	background-position: -720px -480px;
+}
+.sui-icon-create {
+	width: 32px;
+	height: 32px;
+	background-position: 0 -528px;
+}
+.sui-icon-flag {
+	width: 32px;
+	height: 32px;
+	background-position: -48px -528px;
+}
+.sui-icon-forward {
+	width: 32px;
+	height: 32px;
+	background-position: -96px -528px;
+}
+.sui-icon-inbox {
+	width: 32px;
+	height: 32px;
+	background-position: -144px -528px;
+}
+.sui-icon-link {
+	width: 32px;
+	height: 32px;
+	background-position: -192px -528px;
+}
+.sui-icon-mail {
+	width: 32px;
+	height: 32px;
+	background-position: -240px -528px;
+}
+.sui-icon-redo {
+	width: 32px;
+	height: 32px;
+	background-position: -288px -528px;
+}
+.sui-icon-remove {
+	width: 32px;
+	height: 32px;
+	background-position: -336px -528px;
+}
+.sui-icon-remove-circle {
+	width: 32px;
+	height: 32px;
+	background-position: -384px -528px;
+}
+.sui-icon-remove-circle-outline {
+	width: 32px;
+	height: 32px;
+	background-position: -432px -528px;
+}
+.sui-icon-reply {
+	width: 32px;
+	height: 32px;
+	background-position: -480px -528px;
+}
+.sui-icon-reply-all {
+	width: 32px;
+	height: 32px;
+	background-position: -528px -528px;
+}
+.sui-icon-report {
+	width: 32px;
+	height: 32px;
+	background-position: -576px -528px;
+}
+.sui-icon-save {
+	width: 32px;
+	height: 32px;
+	background-position: -624px -528px;
+}
+.sui-icon-send {
+	width: 32px;
+	height: 32px;
+	background-position: -672px -528px;
+}
+.sui-icon-undo {
+	width: 32px;
+	height: 32px;
+	background-position: -720px -528px;
+}
+.sui-icon-contact-mail {
+	width: 32px;
+	height: 32px;
+	background-position: 0 -576px;
+}
+.sui-icon-call {
+	width: 32px;
+	height: 32px;
+	background-position: -48px -576px;
+}
+.sui-icon-call-end {
+	width: 32px;
+	height: 32px;
+	background-position: -96px -576px;
+}
+.sui-icon-chat {
+	width: 32px;
+	height: 32px;
+	background-position: -144px -576px;
+}
+.sui-icon-chat-bubble {
+	width: 32px;
+	height: 32px;
+	background-position: -192px -576px;
+}
+.sui-icon-chat-bubble-outline {
+	width: 32px;
+	height: 32px;
+	background-position: -240px -576px;
+}
+.sui-icon-comment {
+	width: 32px;
+	height: 32px;
+	background-position: -288px -576px;
+}
+.sui-icon-contact-phone {
+	width: 32px;
+	height: 32px;
+	background-position: -336px -576px;
+}
+.sui-icon-contacts {
+	width: 32px;
+	height: 32px;
+	background-position: -384px -576px;
+}
+.sui-icon-email {
+	width: 32px;
+	height: 32px;
+	background-position: -432px -576px;
+}
+.sui-icon-location-on {
+	width: 32px;
+	height: 32px;
+	background-position: -480px -576px;
+}
+.sui-icon-phone {
+	width: 32px;
+	height: 32px;
+	background-position: -528px -576px;
+}
+.sui-icon-videocam {
+	width: 32px;
+	height: 32px;
+	background-position: -576px -576px;
+}
+.sui-icon-videocam-off {
+	width: 32px;
+	height: 32px;
+	background-position: -624px -576px;
+}
+.sui-icon-error {
+	width: 32px;
+	height: 32px;
+	background-position: -672px -576px;
+}
+.sui-icon-error-outline {
+	width: 32px;
+	height: 32px;
+	background-position: -720px -576px;
+}
+.sui-icon-warning {
+	width: 32px;
+	height: 32px;
+	background-position: 0 -624px;
+}
+.sui-icon-account-box {
+	width: 32px;
+	height: 32px;
+	background-position: -48px -624px;
+}
+.sui-icon-account-circle {
+	width: 32px;
+	height: 32px;
+	background-position: -96px -624px;
+}
+.sui-icon-add-shopping-cart {
+	width: 32px;
+	height: 32px;
+	background-position: -144px -624px;
 }
 .sui-icon-announcement {
-	width: 48px;
-	height: 48px;
-	background-position: -640px -768px;
+	width: 32px;
+	height: 32px;
+	background-position: -192px -624px;
 }
 .sui-icon-assignment {
-	width: 48px;
-	height: 48px;
-	background-position: -704px -768px;
+	width: 32px;
+	height: 32px;
+	background-position: -240px -624px;
 }
 .sui-icon-assignment-ind {
-	width: 48px;
-	height: 48px;
-	background-position: -768px -768px;
+	width: 32px;
+	height: 32px;
+	background-position: -288px -624px;
 }
 .sui-icon-assignment-late {
-	width: 48px;
-	height: 48px;
-	background-position: -832px -768px;
+	width: 32px;
+	height: 32px;
+	background-position: -336px -624px;
 }
 .sui-icon-autorenew {
-	width: 48px;
-	height: 48px;
-	background-position: -896px -768px;
+	width: 32px;
+	height: 32px;
+	background-position: -384px -624px;
 }
 .sui-icon-backup {
-	width: 48px;
-	height: 48px;
-	background-position: -960px -768px;
+	width: 32px;
+	height: 32px;
+	background-position: -432px -624px;
 }
 .sui-icon-bookmark {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -832px;
+	width: 32px;
+	height: 32px;
+	background-position: -480px -624px;
 }
 .sui-icon-bookmark-border {
-	width: 48px;
-	height: 48px;
-	background-position: -64px -832px;
+	width: 32px;
+	height: 32px;
+	background-position: -528px -624px;
 }
 .sui-icon-build {
-	width: 48px;
-	height: 48px;
-	background-position: -128px -832px;
+	width: 32px;
+	height: 32px;
+	background-position: -576px -624px;
 }
 .sui-icon-cached {
-	width: 48px;
-	height: 48px;
-	background-position: -192px -832px;
+	width: 32px;
+	height: 32px;
+	background-position: -624px -624px;
 }
 .sui-icon-check-circle {
-	width: 48px;
-	height: 48px;
-	background-position: -256px -832px;
+	width: 32px;
+	height: 32px;
+	background-position: -672px -624px;
 }
 .sui-icon-delete {
-	width: 48px;
-	height: 48px;
-	background-position: -320px -832px;
+	width: 32px;
+	height: 32px;
+	background-position: -720px -624px;
 }
 .sui-icon-description {
-	width: 48px;
-	height: 48px;
-	background-position: -384px -832px;
+	width: 32px;
+	height: 32px;
+	background-position: 0 -672px;
 }
 .sui-icon-dns {
-	width: 48px;
-	height: 48px;
-	background-position: -448px -832px;
+	width: 32px;
+	height: 32px;
+	background-position: -48px -672px;
 }
 .sui-icon-done {
-	width: 48px;
-	height: 48px;
-	background-position: -512px -832px;
+	width: 32px;
+	height: 32px;
+	background-position: -96px -672px;
 }
 .sui-icon-favorite {
-	width: 48px;
-	height: 48px;
-	background-position: -576px -832px;
+	width: 32px;
+	height: 32px;
+	background-position: -144px -672px;
 }
 .sui-icon-favorite-border {
-	width: 48px;
-	height: 48px;
-	background-position: -640px -832px;
+	width: 32px;
+	height: 32px;
+	background-position: -192px -672px;
 }
 .sui-icon-grade {
-	width: 48px;
-	height: 48px;
-	background-position: -704px -832px;
+	width: 32px;
+	height: 32px;
+	background-position: -240px -672px;
 }
 .sui-icon-help {
-	width: 48px;
-	height: 48px;
-	background-position: -768px -832px;
+	width: 32px;
+	height: 32px;
+	background-position: -288px -672px;
 }
 .sui-icon-help-outline {
-	width: 48px;
-	height: 48px;
-	background-position: -832px -832px;
+	width: 32px;
+	height: 32px;
+	background-position: -336px -672px;
 }
 .sui-icon-highlight-off {
-	width: 48px;
-	height: 48px;
-	background-position: -896px -832px;
+	width: 32px;
+	height: 32px;
+	background-position: -384px -672px;
 }
 .sui-icon-home {
-	width: 48px;
-	height: 48px;
-	background-position: -960px -832px;
+	width: 32px;
+	height: 32px;
+	background-position: -432px -672px;
 }
 .sui-icon-http {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -896px;
+	width: 32px;
+	height: 32px;
+	background-position: -480px -672px;
 }
 .sui-icon-https {
-	width: 48px;
-	height: 48px;
-	background-position: -64px -896px;
+	width: 32px;
+	height: 32px;
+	background-position: -528px -672px;
 }
 .sui-icon-info {
-	width: 48px;
-	height: 48px;
-	background-position: -128px -896px;
+	width: 32px;
+	height: 32px;
+	background-position: -576px -672px;
 }
 .sui-icon-info-outline {
-	width: 48px;
-	height: 48px;
-	background-position: -192px -896px;
+	width: 32px;
+	height: 32px;
+	background-position: -624px -672px;
 }
 .sui-icon-input {
-	width: 48px;
-	height: 48px;
-	background-position: -256px -896px;
+	width: 32px;
+	height: 32px;
+	background-position: -672px -672px;
 }
 .sui-icon-invert-colors {
-	width: 48px;
-	height: 48px;
-	background-position: -320px -896px;
+	width: 32px;
+	height: 32px;
+	background-position: -720px -672px;
 }
 .sui-icon-label {
-	width: 48px;
-	height: 48px;
-	background-position: -384px -896px;
+	width: 32px;
+	height: 32px;
+	background-position: 0 -720px;
 }
 .sui-icon-label-outline {
-	width: 48px;
-	height: 48px;
-	background-position: -448px -896px;
+	width: 32px;
+	height: 32px;
+	background-position: -48px -720px;
 }
 .sui-icon-language {
-	width: 48px;
-	height: 48px;
-	background-position: -512px -896px;
+	width: 32px;
+	height: 32px;
+	background-position: -96px -720px;
 }
 .sui-icon-launch {
-	width: 48px;
-	height: 48px;
-	background-position: -576px -896px;
+	width: 32px;
+	height: 32px;
+	background-position: -144px -720px;
 }
 .sui-icon-list {
-	width: 48px;
-	height: 48px;
-	background-position: -640px -896px;
+	width: 32px;
+	height: 32px;
+	background-position: -192px -720px;
 }
 .sui-icon-lock {
-	width: 48px;
-	height: 48px;
-	background-position: -704px -896px;
+	width: 32px;
+	height: 32px;
+	background-position: -240px -720px;
 }
 .sui-icon-lock-open {
-	width: 48px;
-	height: 48px;
-	background-position: -768px -896px;
+	width: 32px;
+	height: 32px;
+	background-position: -288px -720px;
 }
 .sui-icon-lock-outline {
-	width: 48px;
-	height: 48px;
-	background-position: -832px -896px;
+	width: 32px;
+	height: 32px;
+	background-position: -336px -720px;
 }
 .sui-icon-loyalty {
-	width: 48px;
-	height: 48px;
-	background-position: -896px -896px;
+	width: 32px;
+	height: 32px;
+	background-position: -384px -720px;
 }
 .sui-icon-note-add {
-	width: 48px;
-	height: 48px;
-	background-position: -960px -896px;
+	width: 32px;
+	height: 32px;
+	background-position: -432px -720px;
 }
 .sui-icon-open-in-browser {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -960px;
+	width: 32px;
+	height: 32px;
+	background-position: -480px -720px;
 }
 .sui-icon-open-in-new {
-	width: 48px;
-	height: 48px;
-	background-position: -64px -960px;
+	width: 32px;
+	height: 32px;
+	background-position: -528px -720px;
 }
 .sui-icon-pageview {
-	width: 48px;
-	height: 48px;
-	background-position: -128px -960px;
+	width: 32px;
+	height: 32px;
+	background-position: -576px -720px;
 }
 .sui-icon-perm-contact-calendar {
-	width: 48px;
-	height: 48px;
-	background-position: -192px -960px;
+	width: 32px;
+	height: 32px;
+	background-position: -624px -720px;
 }
 .sui-icon-perm-identity {
-	width: 48px;
-	height: 48px;
-	background-position: -256px -960px;
+	width: 32px;
+	height: 32px;
+	background-position: -672px -720px;
 }
 .sui-icon-perm-media {
-	width: 48px;
-	height: 48px;
-	background-position: -320px -960px;
+	width: 32px;
+	height: 32px;
+	background-position: -720px -720px;
 }
 .sui-icon-picture-in-picture {
-	width: 48px;
-	height: 48px;
-	background-position: -384px -960px;
+	width: 32px;
+	height: 32px;
+	background-position: 0 -768px;
 }
 .sui-icon-power-settings-new {
-	width: 48px;
-	height: 48px;
-	background-position: -448px -960px;
+	width: 32px;
+	height: 32px;
+	background-position: -48px -768px;
 }
 .sui-icon-print {
-	width: 48px;
-	height: 48px;
-	background-position: -512px -960px;
+	width: 32px;
+	height: 32px;
+	background-position: -96px -768px;
 }
 .sui-icon-reorder {
-	width: 48px;
-	height: 48px;
-	background-position: -576px -960px;
+	width: 32px;
+	height: 32px;
+	background-position: -144px -768px;
 }
 .sui-icon-report-problem {
-	width: 48px;
-	height: 48px;
-	background-position: -640px -960px;
+	width: 32px;
+	height: 32px;
+	background-position: -192px -768px;
 }
 .sui-icon-room {
-	width: 48px;
-	height: 48px;
-	background-position: -704px -960px;
+	width: 32px;
+	height: 32px;
+	background-position: -240px -768px;
 }
 .sui-icon-search {
-	width: 48px;
-	height: 48px;
-	background-position: -768px -960px;
+	width: 32px;
+	height: 32px;
+	background-position: -288px -768px;
 }
 .sui-icon-settings {
-	width: 48px;
-	height: 48px;
-	background-position: -832px -960px;
+	width: 32px;
+	height: 32px;
+	background-position: -336px -768px;
 }
 .sui-icon-settings-applications {
-	width: 48px;
-	height: 48px;
-	background-position: -896px -960px;
+	width: 32px;
+	height: 32px;
+	background-position: -384px -768px;
 }
 .sui-icon-shopping-cart {
-	width: 48px;
-	height: 48px;
-	background-position: -960px -960px;
+	width: 32px;
+	height: 32px;
+	background-position: -432px -768px;
 }
 .sui-icon-star-rate {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -1024px;
+	width: 32px;
+	height: 32px;
+	background-position: -480px -768px;
 }
 .sui-icon-star-circle {
-	width: 48px;
-	height: 48px;
-	background-position: -64px -1024px;
+	width: 32px;
+	height: 32px;
+	background-position: -528px -768px;
 }
 .sui-icon-supervisor-account {
-	width: 48px;
-	height: 48px;
-	background-position: -128px -1024px;
+	width: 32px;
+	height: 32px;
+	background-position: -576px -768px;
 }
 .sui-icon-system-update-alt {
-	width: 48px;
-	height: 48px;
-	background-position: -192px -1024px;
+	width: 32px;
+	height: 32px;
+	background-position: -624px -768px;
 }
 .sui-icon-turned-in {
-	width: 48px;
-	height: 48px;
-	background-position: -256px -1024px;
+	width: 32px;
+	height: 32px;
+	background-position: -672px -768px;
 }
 .sui-icon-turned-in-not {
-	width: 48px;
-	height: 48px;
-	background-position: -320px -1024px;
+	width: 32px;
+	height: 32px;
+	background-position: -720px -768px;
 }
 .sui-icon-visibility {
-	width: 48px;
-	height: 48px;
-	background-position: -384px -1024px;
+	width: 32px;
+	height: 32px;
+	background-position: 0 -816px;
 }
 .sui-icon-visibility-off {
-	width: 48px;
-	height: 48px;
-	background-position: -448px -1024px;
+	width: 32px;
+	height: 32px;
+	background-position: -48px -816px;
 }
 .sui-icon-work {
-	width: 48px;
-	height: 48px;
-	background-position: -512px -1024px;
+	width: 32px;
+	height: 32px;
+	background-position: -96px -816px;
 }
 .sui-icon-zoomin {
-	width: 48px;
-	height: 48px;
-	background-position: -576px -1024px;
+	width: 32px;
+	height: 32px;
+	background-position: -144px -816px;
 }
 .sui-icon-zoomout {
-	width: 48px;
-	height: 48px;
-	background-position: -640px -1024px;
+	width: 32px;
+	height: 32px;
+	background-position: -192px -816px;
 }
 .sui-icon-logo {
-	width: 48px;
-	height: 48px;
-	background-position: 0 -1088px;
+	width: 32px;
+	height: 32px;
+	background-position: 0 -864px;
 }

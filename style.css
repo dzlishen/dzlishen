@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'sinoUI';
-	src:url('fonts/sinoUI.eot?-mji7jz');
-	src:url('fonts/sinoUI.eot?#iefix-mji7jz') format('embedded-opentype'),
-		url('fonts/sinoUI.ttf?-mji7jz') format('truetype'),
-		url('fonts/sinoUI.woff?-mji7jz') format('woff'),
-		url('fonts/sinoUI.svg?-mji7jz#sinoUI') format('svg');
+	src:url('fonts/sinoUI.eot?85ga77');
+	src:url('fonts/sinoUI.eot?#iefix85ga77') format('embedded-opentype'),
+		url('fonts/sinoUI.ttf?85ga77') format('truetype'),
+		url('fonts/sinoUI.woff?85ga77') format('woff'),
+		url('fonts/sinoUI.svg?85ga77#sinoUI') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -104,6 +104,18 @@
 .sui-icon-save2:before {
 	content: "\e962";
 }
+.sui-icon-undo2:before {
+	content: "\e967";
+}
+.sui-icon-redo2:before {
+	content: "\e968";
+}
+.sui-icon-forward2:before {
+	content: "\e969";
+}
+.sui-icon-reply3:before {
+	content: "\e96a";
+}
 .sui-icon-user-plus:before {
 	content: "\e973";
 }
@@ -149,6 +161,9 @@
 .sui-icon-delete22:before {
 	content: "\e9ad";
 }
+.sui-icon-tree:before {
+	content: "\e9bc";
+}
 .sui-icon-mark:before {
 	content: "\e9cc";
 }
@@ -173,8 +188,26 @@
 .sui-icon-arrow-down:before {
 	content: "\ea36";
 }
+.sui-icon-circle-up:before {
+	content: "\ea41";
+}
+.sui-icon-circle-right:before {
+	content: "\ea42";
+}
+.sui-icon-circle-down:before {
+	content: "\ea43";
+}
+.sui-icon-circle-left:before {
+	content: "\ea44";
+}
 .sui-icon-apple:before {
 	content: "\eabf";
+}
+.sui-icon-android:before {
+	content: "\eac1";
+}
+.sui-icon-windows:before {
+	content: "\eac2";
 }
 .sui-icon-html5:before {
 	content: "\eadf";
@@ -625,9 +658,6 @@
 }
 .sui-icon-add-shopping-cart:before {
 	content: "\e69d";
-}
-.sui-icon-android:before {
-	content: "\e69e";
 }
 .sui-icon-announcement:before {
 	content: "\e69f";
