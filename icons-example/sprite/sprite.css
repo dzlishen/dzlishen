@@ -349,12 +349,12 @@
 	height: 32px;
 	background-position: -192px -192px;
 }
-.sui-icon-checkbox {
+.sui-icon-checkbox-checked {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -192px;
 }
-.sui-icon-checkbox-outline {
+.sui-icon-checkbox-unchecked {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -192px;

@@ -1962,7 +1962,7 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"sui-checkbox"
+					"sui-checkbox-checked"
 				]
 			},
 			"attrs": [
@@ -1973,7 +1973,7 @@
 				"id": 73,
 				"prevSize": 16,
 				"code": 58882,
-				"name": "checkbox"
+				"name": "checkbox-checked"
 			},
 			"setIdx": 2,
 			"setId": 28,
@@ -1990,7 +1990,7 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"sui-checkbox-outline"
+					"sui-checkbox-unchecked"
 				]
 			},
 			"attrs": [
@@ -2001,7 +2001,7 @@
 				"id": 71,
 				"prevSize": 16,
 				"code": 58883,
-				"name": "checkbox-outline"
+				"name": "checkbox-unchecked"
 			},
 			"setIdx": 2,
 			"setId": 28,
