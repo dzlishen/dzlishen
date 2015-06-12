@@ -1990,7 +1990,7 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"sui-checkbox-outline-blank"
+					"sui-checkbox-outline"
 				]
 			},
 			"attrs": [
@@ -2001,7 +2001,7 @@
 				"id": 71,
 				"prevSize": 16,
 				"code": 58883,
-				"name": "checkbox-outline-blank"
+				"name": "checkbox-outline"
 			},
 			"setIdx": 2,
 			"setId": 28,

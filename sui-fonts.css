@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'sinoUI';
-	src:url('fonts/sinoUI.eot?2nkmgn');
-	src:url('fonts/sinoUI.eot?#iefix2nkmgn') format('embedded-opentype'),
-		url('fonts/sinoUI.ttf?2nkmgn') format('truetype'),
-		url('fonts/sinoUI.woff?2nkmgn') format('woff'),
-		url('fonts/sinoUI.svg?2nkmgn#sinoUI') format('svg');
+	src:url('fonts/sinoUI.eot?-dv2gor');
+	src:url('fonts/sinoUI.eot?#iefix-dv2gor') format('embedded-opentype'),
+		url('fonts/sinoUI.ttf?-dv2gor') format('truetype'),
+		url('fonts/sinoUI.woff?-dv2gor') format('woff'),
+		url('fonts/sinoUI.svg?-dv2gor#sinoUI') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -233,7 +233,7 @@
 .sui-icon-checkbox:before {
 	content: "\e602";
 }
-.sui-icon-checkbox-outline-blank:before {
+.sui-icon-checkbox-outline:before {
 	content: "\e603";
 }
 .sui-icon-indeter-checkbox:before {
