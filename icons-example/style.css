@@ -6,17 +6,21 @@
 	background-color: #ffffff;
 }
 
-/* ================================================================================
+/* =======================================================================================
 Example showing how to change the color/size of the icons:
 .sui-icon-name {
 	font-size: 32px; // works because "width" & "height" were set using em units
-	color: red; // works because "fill" was set to "currentColor"
+	color: red; // works for single-colored icons, because "fill" was set to "currentColor"
 }
-================================================================================ */
+======================================================================================== */
+
+.sui-icon-chat2 {
+	width: 1.125em;
+}
 
 #sui-icon-logo .path1 {
-	fill: rgb(216, 41, 43);
+	fill: #d8292b;
 }
 #sui-icon-logo .path2 {
-	fill: rgb(16, 124, 191);
+	fill: #107cbf;
 }

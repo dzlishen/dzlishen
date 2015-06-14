@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'sinoUI';
-	src:url('fonts/sinoUI.eot?-bdy6hr');
-	src:url('fonts/sinoUI.eot?#iefix-bdy6hr') format('embedded-opentype'),
-		url('fonts/sinoUI.ttf?-bdy6hr') format('truetype'),
-		url('fonts/sinoUI.woff?-bdy6hr') format('woff'),
-		url('fonts/sinoUI.svg?-bdy6hr#sinoUI') format('svg');
+	src:url('fonts/sinoUI.eot?-1wpg94');
+	src:url('fonts/sinoUI.eot?#iefix-1wpg94') format('embedded-opentype'),
+		url('fonts/sinoUI.ttf?-1wpg94') format('truetype'),
+		url('fonts/sinoUI.woff?-1wpg94') format('woff'),
+		url('fonts/sinoUI.svg?-1wpg94#sinoUI') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -83,6 +83,18 @@
 .sui-icon-write:before {
 	content: "\e61f";
 }
+.sui-icon-home2:before {
+	content: "\e900";
+}
+.sui-icon-home3:before {
+	content: "\e902";
+}
+.sui-icon-todolist:before {
+	content: "\e922";
+}
+.sui-icon-profile:before {
+	content: "\e923";
+}
 .sui-icon-directory:before {
 	content: "\e92f";
 }
@@ -101,6 +113,9 @@
 .sui-icon-drawer2:before {
 	content: "\e95d";
 }
+.sui-icon-download:before {
+	content: "\e960";
+}
 .sui-icon-save2:before {
 	content: "\e962";
 }
@@ -115,6 +130,9 @@
 }
 .sui-icon-reply3:before {
 	content: "\e96a";
+}
+.sui-icon-chat2:before {
+	content: "\e96c";
 }
 .sui-icon-user-plus:before {
 	content: "\e973";
