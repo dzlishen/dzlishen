@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'sinoUI';
-	src:url('fonts/sinoUI.eot?-1wpg94');
-	src:url('fonts/sinoUI.eot?#iefix-1wpg94') format('embedded-opentype'),
-		url('fonts/sinoUI.ttf?-1wpg94') format('truetype'),
-		url('fonts/sinoUI.woff?-1wpg94') format('woff'),
-		url('fonts/sinoUI.svg?-1wpg94#sinoUI') format('svg');
+	src:url('fonts/sinoUI.eot?-aovrtd');
+	src:url('fonts/sinoUI.eot?#iefix-aovrtd') format('embedded-opentype'),
+		url('fonts/sinoUI.ttf?-aovrtd') format('truetype'),
+		url('fonts/sinoUI.woff?-aovrtd') format('woff'),
+		url('fonts/sinoUI.svg?-aovrtd#sinoUI') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -133,6 +133,12 @@
 }
 .sui-icon-chat2:before {
 	content: "\e96c";
+}
+.sui-icon-user:before {
+	content: "\e971";
+}
+.sui-icon-users:before {
+	content: "\e972";
 }
 .sui-icon-user-plus:before {
 	content: "\e973";
