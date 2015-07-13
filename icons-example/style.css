@@ -18,6 +18,14 @@ Example showing how to change the color/size of the icons:
 	width: 1.125em;
 }
 
+.sui-icon-users {
+	width: 1.125em;
+}
+
+.sui-icon-person-add {
+	width: 0.96875em;
+}
+
 #sui-icon-logo .path1 {
 	fill: #d8292b;
 }

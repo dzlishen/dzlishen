@@ -4,1423 +4,1453 @@
 	background-image: url(sprite.svg);
 	background-color: #ffffff;
 }
-.sui-icon-save3 {
+.sui-icon-info-outline2 {
 	width: 32px;
 	height: 32px;
 	background-position: 0 0;
 }
-.sui-icon-save-full {
+.sui-icon-save3 {
 	width: 32px;
 	height: 32px;
 	background-position: -48px 0;
 }
-.sui-icon-email2 {
+.sui-icon-save-full {
 	width: 32px;
 	height: 32px;
 	background-position: -96px 0;
 }
-.sui-icon-email-full {
+.sui-icon-email2 {
 	width: 32px;
 	height: 32px;
 	background-position: -144px 0;
 }
-.sui-icon-delete3 {
+.sui-icon-email-full {
 	width: 32px;
 	height: 32px;
 	background-position: -192px 0;
 }
-.sui-icon-delete-full {
+.sui-icon-delete3 {
 	width: 32px;
 	height: 32px;
 	background-position: -240px 0;
 }
-.sui-icon-minus-circle {
+.sui-icon-delete-full {
 	width: 32px;
 	height: 32px;
 	background-position: -288px 0;
 }
-.sui-icon-minus-outline {
+.sui-icon-minus-circle {
 	width: 32px;
 	height: 32px;
 	background-position: -336px 0;
 }
-.sui-icon-plus-circle {
+.sui-icon-minus-outline {
 	width: 32px;
 	height: 32px;
 	background-position: -384px 0;
 }
-.sui-icon-plus-outline {
+.sui-icon-plus-circle {
 	width: 32px;
 	height: 32px;
 	background-position: -432px 0;
 }
-.sui-icon-ok-circle {
+.sui-icon-plus-outline {
 	width: 32px;
 	height: 32px;
 	background-position: -480px 0;
 }
-.sui-icon-ok-outline {
+.sui-icon-ok-circle {
 	width: 32px;
 	height: 32px;
 	background-position: -528px 0;
 }
-.sui-icon-flag2 {
+.sui-icon-ok-outline {
 	width: 32px;
 	height: 32px;
 	background-position: -576px 0;
 }
-.sui-icon-share2 {
+.sui-icon-flag2 {
 	width: 32px;
 	height: 32px;
 	background-position: -624px 0;
 }
-.sui-icon-reply2 {
+.sui-icon-share2 {
 	width: 32px;
 	height: 32px;
 	background-position: -672px 0;
 }
-.sui-icon-disk {
+.sui-icon-reply2 {
 	width: 32px;
 	height: 32px;
 	background-position: -720px 0;
 }
-.sui-icon-folder2 {
+.sui-icon-disk {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -48px;
 }
-.sui-icon-man {
+.sui-icon-folder2 {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -48px;
 }
-.sui-icon-map-direction {
+.sui-icon-man {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -48px;
 }
-.sui-icon-write {
+.sui-icon-map-direction {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -48px;
 }
-.sui-icon-home2 {
+.sui-icon-write {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -48px;
 }
-.sui-icon-home3 {
+.sui-icon-home2 {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -48px;
 }
-.sui-icon-todolist {
+.sui-icon-home3 {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -48px;
 }
-.sui-icon-profile {
+.sui-icon-todolist {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -48px;
 }
-.sui-icon-directory {
+.sui-icon-profile {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -48px;
 }
-.sui-icon-directory-open {
+.sui-icon-directory {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -48px;
 }
-.sui-icon-barcode {
+.sui-icon-directory-open {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -48px;
 }
-.sui-icon-qrcode {
+.sui-icon-barcode {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -48px;
 }
-.sui-icon-drawer {
+.sui-icon-qrcode {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -48px;
 }
-.sui-icon-drawer2 {
+.sui-icon-drawer {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -48px;
 }
-.sui-icon-download {
+.sui-icon-drawer2 {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -48px;
 }
-.sui-icon-save2 {
+.sui-icon-download {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -48px;
 }
-.sui-icon-undo2 {
+.sui-icon-save2 {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -96px;
 }
-.sui-icon-redo2 {
+.sui-icon-undo2 {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -96px;
 }
-.sui-icon-forward2 {
+.sui-icon-redo2 {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -96px;
 }
-.sui-icon-reply3 {
+.sui-icon-forward2 {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -96px;
 }
-.sui-icon-chat2 {
-	width: 36px;
+.sui-icon-reply3 {
+	width: 32px;
 	height: 32px;
 	background-position: -192px -96px;
 }
-.sui-icon-user-plus {
-	width: 32px;
+.sui-icon-chat2 {
+	width: 36px;
 	height: 32px;
 	background-position: -240px -96px;
 }
-.sui-icon-user-minus {
+.sui-icon-user {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -96px;
 }
-.sui-icon-spinner {
-	width: 32px;
+.sui-icon-users {
+	width: 36px;
 	height: 32px;
 	background-position: -336px -96px;
 }
-.sui-icon-spinner2 {
+.sui-icon-user-plus {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -96px;
 }
-.sui-icon-spinner3 {
+.sui-icon-user-minus {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -96px;
 }
-.sui-icon-spinner4 {
+.sui-icon-spinner {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -96px;
 }
-.sui-icon-spinner5 {
+.sui-icon-spinner2 {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -96px;
 }
-.sui-icon-spinner6 {
+.sui-icon-spinner3 {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -96px;
 }
-.sui-icon-spinner7 {
+.sui-icon-spinner4 {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -96px;
 }
-.sui-icon-spinner8 {
+.sui-icon-spinner5 {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -96px;
 }
-.sui-icon-spinner9 {
+.sui-icon-spinner6 {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -96px;
 }
-.sui-icon-spinner10 {
+.sui-icon-spinner7 {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -144px;
 }
-.sui-icon-spinner11 {
+.sui-icon-spinner8 {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -144px;
 }
-.sui-icon-delete2 {
+.sui-icon-spinner9 {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -144px;
 }
-.sui-icon-delete22 {
+.sui-icon-spinner10 {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -144px;
 }
-.sui-icon-tree {
+.sui-icon-spinner11 {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -144px;
 }
-.sui-icon-mark {
+.sui-icon-delete2 {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -144px;
 }
-.sui-icon-paperclip {
+.sui-icon-delete22 {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -144px;
 }
-.sui-icon-plus {
+.sui-icon-tree {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -144px;
 }
-.sui-icon-minus {
+.sui-icon-mark {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -144px;
 }
-.sui-icon-cross {
+.sui-icon-paperclip {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -144px;
 }
-.sui-icon-checkmark {
+.sui-icon-plus {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -144px;
 }
-.sui-icon-arrow-up {
+.sui-icon-minus {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -144px;
 }
-.sui-icon-arrow-down {
+.sui-icon-cross {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -144px;
 }
-.sui-icon-circle-up {
+.sui-icon-checkmark {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -144px;
 }
-.sui-icon-circle-right {
+.sui-icon-arrow-up {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -144px;
 }
-.sui-icon-circle-down {
+.sui-icon-arrow-down {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -144px;
 }
-.sui-icon-circle-left {
+.sui-icon-circle-up {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -192px;
 }
-.sui-icon-apple {
+.sui-icon-circle-right {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -192px;
 }
-.sui-icon-android {
+.sui-icon-circle-down {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -192px;
 }
-.sui-icon-windows {
+.sui-icon-circle-left {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -192px;
 }
-.sui-icon-html5 {
+.sui-icon-wysiwyg {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -192px;
 }
-.sui-icon-html52 {
+.sui-icon-apple {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -192px;
 }
-.sui-icon-chrome {
+.sui-icon-android {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -192px;
 }
-.sui-icon-firefox {
+.sui-icon-windows {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -192px;
 }
-.sui-icon-ie {
+.sui-icon-html5 {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -192px;
 }
-.sui-icon-opera {
+.sui-icon-html52 {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -192px;
 }
-.sui-icon-safari {
+.sui-icon-chrome {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -192px;
 }
-.sui-icon-checkbox-checked {
+.sui-icon-firefox {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -192px;
 }
-.sui-icon-checkbox-unchecked {
+.sui-icon-ie {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -192px;
 }
-.sui-icon-indeter-checkbox {
+.sui-icon-opera {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -192px;
 }
-.sui-icon-radio-checked {
+.sui-icon-safari {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -192px;
 }
-.sui-icon-radio-unchecked {
+.sui-icon-checkbox-checked {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -192px;
 }
-.sui-icon-star {
+.sui-icon-checkbox-unchecked {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -240px;
 }
-.sui-icon-star-border {
+.sui-icon-indeter-checkbox {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -240px;
 }
-.sui-icon-star-half {
+.sui-icon-radio-checked {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -240px;
 }
-.sui-icon-group {
+.sui-icon-radio-unchecked {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -240px;
 }
-.sui-icon-group-add {
+.sui-icon-star {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -240px;
 }
-.sui-icon-mood {
+.sui-icon-star-border {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -240px;
 }
-.sui-icon-mood-bad {
+.sui-icon-star-half {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -240px;
 }
-.sui-icon-people {
+.sui-icon-group {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -240px;
 }
-.sui-icon-peopl-outline {
+.sui-icon-group-add {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -240px;
 }
-.sui-icon-person {
+.sui-icon-mood {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -240px;
 }
-.sui-icon-person-add {
+.sui-icon-mood-bad {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -240px;
 }
-.sui-icon-person-outline {
+.sui-icon-people {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -240px;
 }
-.sui-icon-plus-one {
+.sui-icon-peopl-outline {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -240px;
 }
-.sui-icon-share {
+.sui-icon-person {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -240px;
 }
-.sui-icon-sync {
-	width: 32px;
+.sui-icon-person-add {
+	width: 31px;
 	height: 32px;
 	background-position: -672px -240px;
 }
-.sui-icon-apps {
+.sui-icon-person-outline {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -240px;
 }
-.sui-icon-arrow-back {
+.sui-icon-plus-one {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -288px;
 }
-.sui-icon-arrow-dropdown {
+.sui-icon-share {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -288px;
 }
-.sui-icon-arrow-dropdown-circle {
+.sui-icon-sync {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -288px;
 }
-.sui-icon-arrow-dropup {
+.sui-icon-apps {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -288px;
 }
-.sui-icon-arrow-forward {
+.sui-icon-arrow-back {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -288px;
 }
-.sui-icon-cancel {
+.sui-icon-arrow-dropdown {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -288px;
 }
-.sui-icon-check {
+.sui-icon-arrow-dropdown-circle {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -288px;
 }
-.sui-icon-chevron-left {
+.sui-icon-arrow-dropup {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -288px;
 }
-.sui-icon-chevron-right {
+.sui-icon-arrow-forward {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -288px;
 }
-.sui-icon-close {
+.sui-icon-cancel {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -288px;
 }
-.sui-icon-expand-less {
+.sui-icon-check {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -288px;
 }
-.sui-icon-expand-more {
+.sui-icon-chevron-left {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -288px;
 }
-.sui-icon-menu {
+.sui-icon-chevron-right {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -288px;
 }
-.sui-icon-more-horiz {
+.sui-icon-close {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -288px;
 }
-.sui-icon-more-vert {
+.sui-icon-expand-less {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -288px;
 }
-.sui-icon-refresh {
+.sui-icon-expand-more {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -288px;
 }
-.sui-icon-pindrop {
+.sui-icon-menu {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -336px;
 }
-.sui-icon-place {
+.sui-icon-more-horiz {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -336px;
 }
-.sui-icon-adjust {
+.sui-icon-more-vert {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -336px;
 }
-.sui-icon-assistant-photo {
+.sui-icon-refresh {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -336px;
 }
-.sui-icon-brush {
+.sui-icon-pindrop {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -336px;
 }
-.sui-icon-camera {
+.sui-icon-place {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -336px;
 }
-.sui-icon-camera-alt {
+.sui-icon-adjust {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -336px;
 }
-.sui-icon-control-point {
+.sui-icon-assistant-photo {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -336px;
 }
-.sui-icon-crop-din {
+.sui-icon-brush {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -336px;
 }
-.sui-icon-crop-square {
+.sui-icon-camera {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -336px;
 }
-.sui-icon-dehaze {
+.sui-icon-camera-alt {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -336px;
 }
-.sui-icon-edit {
+.sui-icon-control-point {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -336px;
 }
-.sui-icon-exposure-neg-1 {
+.sui-icon-crop-din {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -336px;
 }
-.sui-icon-exposure-neg-2 {
+.sui-icon-crop-square {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -336px;
 }
-.sui-icon-exposure-plus-1 {
+.sui-icon-dehaze {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -336px;
 }
-.sui-icon-exposure-plus-2 {
+.sui-icon-edit {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -336px;
 }
-.sui-icon-exposure-zero {
+.sui-icon-exposure-neg-1 {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -384px;
 }
-.sui-icon-filter-1 {
+.sui-icon-exposure-neg-2 {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -384px;
 }
-.sui-icon-filter-2 {
+.sui-icon-exposure-plus-1 {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -384px;
 }
-.sui-icon-filter-3 {
+.sui-icon-exposure-plus-2 {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -384px;
 }
-.sui-icon-filter-4 {
+.sui-icon-exposure-zero {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -384px;
 }
-.sui-icon-filter-5 {
+.sui-icon-filter-1 {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -384px;
 }
-.sui-icon-filter-6 {
+.sui-icon-filter-2 {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -384px;
 }
-.sui-icon-filter-7 {
+.sui-icon-filter-3 {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -384px;
 }
-.sui-icon-filter-8 {
+.sui-icon-filter-4 {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -384px;
 }
-.sui-icon-filter-9 {
+.sui-icon-filter-5 {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -384px;
 }
-.sui-icon-filter-drama {
+.sui-icon-filter-6 {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -384px;
 }
-.sui-icon-filter-tilt-shift {
+.sui-icon-filter-7 {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -384px;
 }
-.sui-icon-navigate-before {
+.sui-icon-filter-8 {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -384px;
 }
-.sui-icon-navigate-next {
+.sui-icon-filter-9 {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -384px;
 }
-.sui-icon-panorama-fisheye {
+.sui-icon-filter-drama {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -384px;
 }
-.sui-icon-photo-camera {
+.sui-icon-filter-tilt-shift {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -384px;
 }
-.sui-icon-remove-redeye {
+.sui-icon-navigate-before {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -432px;
 }
-.sui-icon-rotate-left {
+.sui-icon-navigate-next {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -432px;
 }
-.sui-icon-rotate-right {
+.sui-icon-panorama-fisheye {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -432px;
 }
-.sui-icon-wbcloudy {
+.sui-icon-photo-camera {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -432px;
 }
-.sui-icon-computer {
+.sui-icon-remove-redeye {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -432px;
 }
-.sui-icon-desktop-mac {
+.sui-icon-rotate-left {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -432px;
 }
-.sui-icon-desktop-windows {
+.sui-icon-rotate-right {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -432px;
 }
-.sui-icon-dock {
+.sui-icon-wbcloudy {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -432px;
 }
-.sui-icon-keyboard-arrow-down {
+.sui-icon-computer {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -432px;
 }
-.sui-icon-keyboard-arrow-left {
+.sui-icon-desktop-mac {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -432px;
 }
-.sui-icon-keyboard-arrow-right {
+.sui-icon-desktop-windows {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -432px;
 }
-.sui-icon-keyboard-arrow-up {
+.sui-icon-dock {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -432px;
 }
-.sui-icon-keyboard-backspace {
+.sui-icon-keyboard-arrow-down {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -432px;
 }
-.sui-icon-voice {
+.sui-icon-keyboard-arrow-left {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -432px;
 }
-.sui-icon-phone-android {
+.sui-icon-keyboard-arrow-right {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -432px;
 }
-.sui-icon-attachment {
+.sui-icon-keyboard-arrow-up {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -432px;
 }
-.sui-icon-cloud {
+.sui-icon-keyboard-backspace {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -480px;
 }
-.sui-icon-cloud-circle {
+.sui-icon-voice {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -480px;
 }
-.sui-icon-cloud-done {
+.sui-icon-phone-android {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -480px;
 }
-.sui-icon-cloud-download {
+.sui-icon-attachment {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -480px;
 }
-.sui-icon-cloud-off {
+.sui-icon-cloud {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -480px;
 }
-.sui-icon-cloud-queue {
+.sui-icon-cloud-circle {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -480px;
 }
-.sui-icon-cloud-upload {
+.sui-icon-cloud-done {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -480px;
 }
-.sui-icon-file-download {
+.sui-icon-cloud-download {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -480px;
 }
-.sui-icon-file-upload {
+.sui-icon-cloud-off {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -480px;
 }
-.sui-icon-folder {
+.sui-icon-cloud-queue {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -480px;
 }
-.sui-icon-folder-open {
+.sui-icon-cloud-upload {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -480px;
 }
-.sui-icon-folder-shared {
+.sui-icon-file-download {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -480px;
 }
-.sui-icon-attachfile {
+.sui-icon-file-upload {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -480px;
 }
-.sui-icon-bordercolor {
+.sui-icon-folder {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -480px;
 }
-.sui-icon-modeedit {
+.sui-icon-folder-open {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -480px;
 }
-.sui-icon-add {
+.sui-icon-folder-shared {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -480px;
 }
-.sui-icon-add-box {
+.sui-icon-attachfile {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -528px;
 }
-.sui-icon-add-circle {
+.sui-icon-bordercolor {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -528px;
 }
-.sui-icon-add-circle-outline {
+.sui-icon-modeedit {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -528px;
 }
-.sui-icon-backspace {
+.sui-icon-add {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -528px;
 }
-.sui-icon-block {
+.sui-icon-add-box {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -528px;
 }
-.sui-icon-clear {
+.sui-icon-add-circle {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -528px;
 }
-.sui-icon-create {
+.sui-icon-add-circle-outline {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -528px;
 }
-.sui-icon-flag {
+.sui-icon-backspace {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -528px;
 }
-.sui-icon-forward {
+.sui-icon-block {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -528px;
 }
-.sui-icon-inbox {
+.sui-icon-clear {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -528px;
 }
-.sui-icon-link {
+.sui-icon-create {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -528px;
 }
-.sui-icon-mail {
+.sui-icon-flag {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -528px;
 }
-.sui-icon-redo {
+.sui-icon-forward {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -528px;
 }
-.sui-icon-remove {
+.sui-icon-inbox {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -528px;
 }
-.sui-icon-remove-circle {
+.sui-icon-link {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -528px;
 }
-.sui-icon-remove-circle-outline {
+.sui-icon-mail {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -528px;
 }
-.sui-icon-reply {
+.sui-icon-redo {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -576px;
 }
-.sui-icon-reply-all {
+.sui-icon-remove {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -576px;
 }
-.sui-icon-report {
+.sui-icon-remove-circle {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -576px;
 }
-.sui-icon-save {
+.sui-icon-remove-circle-outline {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -576px;
 }
-.sui-icon-send {
+.sui-icon-reply {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -576px;
 }
-.sui-icon-undo {
+.sui-icon-reply-all {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -576px;
 }
-.sui-icon-contact-mail {
+.sui-icon-report {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -576px;
 }
-.sui-icon-call {
+.sui-icon-save {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -576px;
 }
-.sui-icon-call-end {
+.sui-icon-send {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -576px;
 }
-.sui-icon-chat {
+.sui-icon-undo {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -576px;
 }
-.sui-icon-chat-bubble {
+.sui-icon-contact-mail {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -576px;
 }
-.sui-icon-chat-bubble-outline {
+.sui-icon-call {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -576px;
 }
-.sui-icon-comment {
+.sui-icon-call-end {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -576px;
 }
-.sui-icon-contact-phone {
+.sui-icon-chat {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -576px;
 }
-.sui-icon-contacts {
+.sui-icon-chat-bubble {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -576px;
 }
-.sui-icon-email {
+.sui-icon-chat-bubble-outline {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -576px;
 }
-.sui-icon-location-on {
+.sui-icon-comment {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -624px;
 }
-.sui-icon-phone {
+.sui-icon-contact-phone {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -624px;
 }
-.sui-icon-videocam {
+.sui-icon-contacts {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -624px;
 }
-.sui-icon-videocam-off {
+.sui-icon-email {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -624px;
 }
-.sui-icon-error {
+.sui-icon-location-on {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -624px;
 }
-.sui-icon-error-outline {
+.sui-icon-phone {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -624px;
 }
-.sui-icon-warning {
+.sui-icon-videocam {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -624px;
 }
-.sui-icon-account-box {
+.sui-icon-videocam-off {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -624px;
 }
-.sui-icon-account-circle {
+.sui-icon-error {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -624px;
 }
-.sui-icon-add-shopping-cart {
+.sui-icon-error-outline {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -624px;
 }
-.sui-icon-announcement {
+.sui-icon-warning {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -624px;
 }
-.sui-icon-assignment {
+.sui-icon-account-box {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -624px;
 }
-.sui-icon-assignment-ind {
+.sui-icon-account-circle {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -624px;
 }
-.sui-icon-assignment-late {
+.sui-icon-add-shopping-cart {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -624px;
 }
-.sui-icon-autorenew {
+.sui-icon-announcement {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -624px;
 }
-.sui-icon-backup {
+.sui-icon-assignment {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -624px;
 }
-.sui-icon-bookmark {
+.sui-icon-assignment-ind {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -672px;
 }
-.sui-icon-bookmark-border {
+.sui-icon-assignment-late {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -672px;
 }
-.sui-icon-build {
+.sui-icon-autorenew {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -672px;
 }
-.sui-icon-cached {
+.sui-icon-backup {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -672px;
 }
-.sui-icon-check-circle {
+.sui-icon-bookmark {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -672px;
 }
-.sui-icon-delete {
+.sui-icon-bookmark-border {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -672px;
 }
-.sui-icon-description {
+.sui-icon-build {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -672px;
 }
-.sui-icon-dns {
+.sui-icon-cached {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -672px;
 }
-.sui-icon-done {
+.sui-icon-check-circle {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -672px;
 }
-.sui-icon-favorite {
+.sui-icon-delete {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -672px;
 }
-.sui-icon-favorite-border {
+.sui-icon-description {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -672px;
 }
-.sui-icon-grade {
+.sui-icon-dns {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -672px;
 }
-.sui-icon-help {
+.sui-icon-done {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -672px;
 }
-.sui-icon-help-outline {
+.sui-icon-favorite {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -672px;
 }
-.sui-icon-highlight-off {
+.sui-icon-favorite-border {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -672px;
 }
-.sui-icon-home {
+.sui-icon-grade {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -672px;
 }
-.sui-icon-http {
+.sui-icon-help {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -720px;
 }
-.sui-icon-https {
+.sui-icon-help-outline {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -720px;
 }
-.sui-icon-info {
+.sui-icon-highlight-off {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -720px;
 }
-.sui-icon-info-outline {
+.sui-icon-home {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -720px;
 }
-.sui-icon-input {
+.sui-icon-http {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -720px;
 }
-.sui-icon-invert-colors {
+.sui-icon-https {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -720px;
 }
-.sui-icon-label {
+.sui-icon-info {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -720px;
 }
-.sui-icon-label-outline {
+.sui-icon-info-outline {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -720px;
 }
-.sui-icon-language {
+.sui-icon-input {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -720px;
 }
-.sui-icon-launch {
+.sui-icon-invert-colors {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -720px;
 }
-.sui-icon-list {
+.sui-icon-label {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -720px;
 }
-.sui-icon-lock {
+.sui-icon-label-outline {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -720px;
 }
-.sui-icon-lock-open {
+.sui-icon-language {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -720px;
 }
-.sui-icon-lock-outline {
+.sui-icon-launch {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -720px;
 }
-.sui-icon-loyalty {
+.sui-icon-list {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -720px;
 }
-.sui-icon-note-add {
+.sui-icon-lock {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -720px;
 }
-.sui-icon-open-in-browser {
+.sui-icon-lock-open {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -768px;
 }
-.sui-icon-open-in-new {
+.sui-icon-lock-outline {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -768px;
 }
-.sui-icon-pageview {
+.sui-icon-loyalty {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -768px;
 }
-.sui-icon-perm-contact-calendar {
+.sui-icon-note-add {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -768px;
 }
-.sui-icon-perm-identity {
+.sui-icon-open-in-browser {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -768px;
 }
-.sui-icon-perm-media {
+.sui-icon-open-in-new {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -768px;
 }
-.sui-icon-picture-in-picture {
+.sui-icon-pageview {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -768px;
 }
-.sui-icon-power-settings-new {
+.sui-icon-perm-contact-calendar {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -768px;
 }
-.sui-icon-print {
+.sui-icon-perm-identity {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -768px;
 }
-.sui-icon-reorder {
+.sui-icon-perm-media {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -768px;
 }
-.sui-icon-report-problem {
+.sui-icon-picture-in-picture {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -768px;
 }
-.sui-icon-room {
+.sui-icon-power-settings-new {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -768px;
 }
-.sui-icon-search {
+.sui-icon-print {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -768px;
 }
-.sui-icon-settings {
+.sui-icon-reorder {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -768px;
 }
-.sui-icon-settings-applications {
+.sui-icon-report-problem {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -768px;
 }
-.sui-icon-shopping-cart {
+.sui-icon-room {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -768px;
 }
-.sui-icon-star-rate {
+.sui-icon-search {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -816px;
 }
-.sui-icon-star-circle {
+.sui-icon-settings {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -816px;
 }
-.sui-icon-supervisor-account {
+.sui-icon-settings-applications {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -816px;
 }
-.sui-icon-system-update-alt {
+.sui-icon-shopping-cart {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -816px;
 }
-.sui-icon-turned-in {
+.sui-icon-star-rate {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -816px;
 }
-.sui-icon-turned-in-not {
+.sui-icon-star-circle {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -816px;
 }
-.sui-icon-visibility {
+.sui-icon-supervisor-account {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -816px;
 }
-.sui-icon-visibility-off {
+.sui-icon-system-update-alt {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -816px;
 }
-.sui-icon-work {
+.sui-icon-turned-in {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -816px;
 }
-.sui-icon-zoomin {
+.sui-icon-turned-in-not {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -816px;
 }
-.sui-icon-zoomout {
+.sui-icon-viewday {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -816px;
 }
-.sui-icon-logo {
+.sui-icon-visibility {
+	width: 32px;
+	height: 32px;
+	background-position: -528px -816px;
+}
+.sui-icon-visibility-off {
+	width: 32px;
+	height: 32px;
+	background-position: -576px -816px;
+}
+.sui-icon-work {
+	width: 32px;
+	height: 32px;
+	background-position: -624px -816px;
+}
+.sui-icon-zoomin {
+	width: 32px;
+	height: 32px;
+	background-position: -672px -816px;
+}
+.sui-icon-zoomout {
+	width: 32px;
+	height: 32px;
+	background-position: -720px -816px;
+}
+.sui-icon-unionslogo {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -864px;
+}
+.sui-icon-logo {
+	width: 32px;
+	height: 32px;
+	background-position: -48px -864px;
 }

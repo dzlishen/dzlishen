@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'sinoUI';
-	src:url('fonts/sinoUI.eot?-1wpg94');
-	src:url('fonts/sinoUI.eot?#iefix-1wpg94') format('embedded-opentype'),
-		url('fonts/sinoUI.ttf?-1wpg94') format('truetype'),
-		url('fonts/sinoUI.woff?-1wpg94') format('woff'),
-		url('fonts/sinoUI.svg?-1wpg94#sinoUI') format('svg');
+	src:url('fonts/sinoUI.eot?v0lqf3');
+	src:url('fonts/sinoUI.eot?#iefixv0lqf3') format('embedded-opentype'),
+		url('fonts/sinoUI.ttf?v0lqf3') format('truetype'),
+		url('fonts/sinoUI.woff?v0lqf3') format('woff'),
+		url('fonts/sinoUI.svg?v0lqf3#sinoUI') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,6 +23,9 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.sui-icon-info-outline2:before {
+	content: "\e6e8";
+}
 .sui-icon-save3:before {
 	content: "\e6e5";
 }
@@ -134,6 +137,12 @@
 .sui-icon-chat2:before {
 	content: "\e96c";
 }
+.sui-icon-user:before {
+	content: "\e971";
+}
+.sui-icon-users:before {
+	content: "\e972";
+}
 .sui-icon-user-plus:before {
 	content: "\e973";
 }
@@ -217,6 +226,9 @@
 }
 .sui-icon-circle-left:before {
 	content: "\ea44";
+}
+.sui-icon-wysiwyg:before {
+	content: "\ea78";
 }
 .sui-icon-apple:before {
 	content: "\eabf";
@@ -857,6 +869,9 @@
 .sui-icon-turned-in-not:before {
 	content: "\e6da";
 }
+.sui-icon-viewday:before {
+	content: "\e69e";
+}
 .sui-icon-visibility:before {
 	content: "\e6db";
 }
@@ -871,6 +886,9 @@
 }
 .sui-icon-zoomout:before {
 	content: "\e6df";
+}
+.sui-icon-unionslogo:before {
+	content: "\e6e7";
 }
 .sui-icon-logo .path1:before {
 	content: "\e600";
