@@ -204,142 +204,142 @@
 	height: 32px;
 	background-position: -336px -96px;
 }
-.sui-icon-user-plus {
+.sui-icon-user {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -96px;
 }
-.sui-icon-user-minus {
-	width: 32px;
+.sui-icon-users {
+	width: 36px;
 	height: 32px;
 	background-position: -432px -96px;
 }
-.sui-icon-spinner {
+.sui-icon-user-plus {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -96px;
 }
-.sui-icon-spinner2 {
+.sui-icon-user-minus {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -96px;
 }
-.sui-icon-spinner3 {
+.sui-icon-spinner {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -96px;
 }
-.sui-icon-spinner4 {
+.sui-icon-spinner2 {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -96px;
 }
-.sui-icon-spinner5 {
+.sui-icon-spinner3 {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -96px;
 }
-.sui-icon-spinner6 {
+.sui-icon-spinner4 {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -96px;
 }
-.sui-icon-spinner7 {
+.sui-icon-spinner5 {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -144px;
 }
-.sui-icon-spinner8 {
+.sui-icon-spinner6 {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -144px;
 }
-.sui-icon-spinner9 {
+.sui-icon-spinner7 {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -144px;
 }
-.sui-icon-spinner10 {
+.sui-icon-spinner8 {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -144px;
 }
-.sui-icon-spinner11 {
+.sui-icon-spinner9 {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -144px;
 }
-.sui-icon-delete2 {
+.sui-icon-spinner10 {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -144px;
 }
-.sui-icon-delete22 {
+.sui-icon-spinner11 {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -144px;
 }
-.sui-icon-tree {
+.sui-icon-delete2 {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -144px;
 }
-.sui-icon-mark {
+.sui-icon-delete22 {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -144px;
 }
-.sui-icon-paperclip {
+.sui-icon-tree {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -144px;
 }
-.sui-icon-plus {
+.sui-icon-mark {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -144px;
 }
-.sui-icon-minus {
+.sui-icon-paperclip {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -144px;
 }
-.sui-icon-cross {
+.sui-icon-plus {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -144px;
 }
-.sui-icon-checkmark {
+.sui-icon-minus {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -144px;
 }
-.sui-icon-arrow-up {
+.sui-icon-cross {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -144px;
 }
-.sui-icon-arrow-down {
+.sui-icon-checkmark {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -144px;
 }
-.sui-icon-circle-up {
+.sui-icon-arrow-up {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -192px;
 }
-.sui-icon-circle-right {
+.sui-icon-arrow-down {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -192px;
 }
-.sui-icon-circle-down {
+.sui-icon-circle-up {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -192px;
 }
-.sui-icon-circle-left {
+.sui-icon-circle-right {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -192px;
@@ -349,1100 +349,1879 @@
 	height: 32px;
 	background-position: -192px -192px;
 }
-.sui-icon-apple {
+.sui-icon-circle-down {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -192px;
 }
-.sui-icon-android {
+.sui-icon-circle-left {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -192px;
 }
-.sui-icon-windows {
+.sui-icon-apple {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -192px;
 }
-.sui-icon-html5 {
+.sui-icon-android {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -192px;
 }
-.sui-icon-html52 {
+.sui-icon-windows {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -192px;
 }
-.sui-icon-chrome {
+.sui-icon-html5 {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -192px;
 }
-.sui-icon-firefox {
+.sui-icon-html52 {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -192px;
 }
-.sui-icon-ie {
+.sui-icon-chrome {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -192px;
 }
-.sui-icon-opera {
+.sui-icon-firefox {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -192px;
 }
-.sui-icon-safari {
+.sui-icon-ie {
 	width: 32px;
 	height: 32px;
 	background-position: -672px -192px;
 }
-.sui-icon-checkbox-checked {
+.sui-icon-opera {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -192px;
 }
-.sui-icon-checkbox-unchecked {
+.sui-icon-safari {
 	width: 32px;
 	height: 32px;
 	background-position: 0 -240px;
 }
-.sui-icon-indeter-checkbox {
+.sui-icon-checkbox-checked {
 	width: 32px;
 	height: 32px;
 	background-position: -48px -240px;
 }
-.sui-icon-radio-checked {
+.sui-icon-checkbox-unchecked {
 	width: 32px;
 	height: 32px;
 	background-position: -96px -240px;
 }
-.sui-icon-radio-unchecked {
+.sui-icon-indeter-checkbox {
 	width: 32px;
 	height: 32px;
 	background-position: -144px -240px;
 }
-.sui-icon-star {
+.sui-icon-radio-checked {
 	width: 32px;
 	height: 32px;
 	background-position: -192px -240px;
 }
-.sui-icon-star-border {
+.sui-icon-radio-unchecked {
 	width: 32px;
 	height: 32px;
 	background-position: -240px -240px;
 }
-.sui-icon-star-half {
+.sui-icon-star {
 	width: 32px;
 	height: 32px;
 	background-position: -288px -240px;
 }
-.sui-icon-group {
+.sui-icon-star-border {
 	width: 32px;
 	height: 32px;
 	background-position: -336px -240px;
 }
-.sui-icon-group-add {
+.sui-icon-star-half {
 	width: 32px;
 	height: 32px;
 	background-position: -384px -240px;
 }
-.sui-icon-mood {
+.sui-icon-group {
 	width: 32px;
 	height: 32px;
 	background-position: -432px -240px;
 }
-.sui-icon-mood-bad {
+.sui-icon-group-add {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -240px;
 }
-.sui-icon-people {
+.sui-icon-mood {
 	width: 32px;
 	height: 32px;
 	background-position: -528px -240px;
 }
-.sui-icon-peopl-outline {
+.sui-icon-mood-bad {
 	width: 32px;
 	height: 32px;
 	background-position: -576px -240px;
 }
-.sui-icon-person {
+.sui-icon-people {
 	width: 32px;
 	height: 32px;
 	background-position: -624px -240px;
 }
+<<<<<<< HEAD
 .sui-icon-person-add {
 	width: 31px;
+=======
+.sui-icon-peopl-outline {
+	width: 32px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 	height: 32px;
 	background-position: -672px -240px;
 }
-.sui-icon-person-outline {
+.sui-icon-person {
 	width: 32px;
 	height: 32px;
 	background-position: -720px -240px;
 }
+.sui-icon-person-add {
+	width: 31px;
+	height: 32px;
+	background-position: -576px -240px;
+}
+.sui-icon-person-outline {
+	width: 32px;
+	height: 32px;
+	background-position: -624px -240px;
+}
 .sui-icon-plus-one {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: 0 -288px;
+=======
+	background-position: -672px -240px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-share {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -48px -288px;
+=======
+	background-position: -720px -240px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-sync {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -96px -288px;
+=======
+	background-position: 0 -288px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-apps {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -144px -288px;
+=======
+	background-position: -48px -288px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-arrow-back {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -192px -288px;
+=======
+	background-position: -96px -288px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-arrow-dropdown {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -240px -288px;
+=======
+	background-position: -144px -288px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-arrow-dropdown-circle {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -288px -288px;
+=======
+	background-position: -192px -288px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-arrow-dropup {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -336px -288px;
+=======
+	background-position: -240px -288px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-arrow-forward {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -384px -288px;
+=======
+	background-position: -288px -288px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-cancel {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -432px -288px;
+=======
+	background-position: -336px -288px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-check {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -480px -288px;
+=======
+	background-position: -384px -288px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-chevron-left {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -528px -288px;
+=======
+	background-position: -432px -288px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-chevron-right {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -576px -288px;
+=======
+	background-position: -480px -288px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-close {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -624px -288px;
+=======
+	background-position: -528px -288px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-expand-less {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -672px -288px;
+=======
+	background-position: -576px -288px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-expand-more {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -720px -288px;
+=======
+	background-position: -624px -288px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-menu {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: 0 -336px;
+=======
+	background-position: -672px -288px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-more-horiz {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -48px -336px;
+=======
+	background-position: -720px -288px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-more-vert {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -96px -336px;
+=======
+	background-position: 0 -336px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-refresh {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -144px -336px;
+=======
+	background-position: -48px -336px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-pindrop {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -192px -336px;
+=======
+	background-position: -96px -336px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-place {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -240px -336px;
+=======
+	background-position: -144px -336px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-adjust {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -288px -336px;
+=======
+	background-position: -192px -336px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-assistant-photo {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -336px -336px;
+=======
+	background-position: -240px -336px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-brush {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -384px -336px;
+=======
+	background-position: -288px -336px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-camera {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -432px -336px;
+=======
+	background-position: -336px -336px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-camera-alt {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -480px -336px;
+=======
+	background-position: -384px -336px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-control-point {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -528px -336px;
+=======
+	background-position: -432px -336px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-crop-din {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -576px -336px;
+=======
+	background-position: -480px -336px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-crop-square {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -624px -336px;
+=======
+	background-position: -528px -336px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-dehaze {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -672px -336px;
+=======
+	background-position: -576px -336px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-edit {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -720px -336px;
+=======
+	background-position: -624px -336px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-exposure-neg-1 {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: 0 -384px;
+=======
+	background-position: -672px -336px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-exposure-neg-2 {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -48px -384px;
+=======
+	background-position: -720px -336px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-exposure-plus-1 {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -96px -384px;
+=======
+	background-position: 0 -384px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-exposure-plus-2 {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -144px -384px;
+=======
+	background-position: -48px -384px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-exposure-zero {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -192px -384px;
+=======
+	background-position: -96px -384px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-filter-1 {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -240px -384px;
+=======
+	background-position: -144px -384px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-filter-2 {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -288px -384px;
+=======
+	background-position: -192px -384px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-filter-3 {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -336px -384px;
+=======
+	background-position: -240px -384px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-filter-4 {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -384px -384px;
+=======
+	background-position: -288px -384px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-filter-5 {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -432px -384px;
+=======
+	background-position: -336px -384px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-filter-6 {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -480px -384px;
+=======
+	background-position: -384px -384px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-filter-7 {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -528px -384px;
+=======
+	background-position: -432px -384px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-filter-8 {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -576px -384px;
+=======
+	background-position: -480px -384px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-filter-9 {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -624px -384px;
+=======
+	background-position: -528px -384px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-filter-drama {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -672px -384px;
+=======
+	background-position: -576px -384px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-filter-tilt-shift {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -720px -384px;
+=======
+	background-position: -624px -384px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-navigate-before {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: 0 -432px;
+=======
+	background-position: -672px -384px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-navigate-next {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -48px -432px;
+=======
+	background-position: -720px -384px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-panorama-fisheye {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -96px -432px;
+=======
+	background-position: 0 -432px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-photo-camera {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -144px -432px;
+=======
+	background-position: -48px -432px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-remove-redeye {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -192px -432px;
+=======
+	background-position: -96px -432px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-rotate-left {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -240px -432px;
+=======
+	background-position: -144px -432px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-rotate-right {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -288px -432px;
+=======
+	background-position: -192px -432px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-wbcloudy {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -336px -432px;
+=======
+	background-position: -240px -432px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-computer {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -384px -432px;
+=======
+	background-position: -288px -432px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-desktop-mac {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -432px -432px;
+=======
+	background-position: -336px -432px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-desktop-windows {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -480px -432px;
+=======
+	background-position: -384px -432px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-dock {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -528px -432px;
+=======
+	background-position: -432px -432px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-keyboard-arrow-down {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -576px -432px;
+=======
+	background-position: -480px -432px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-keyboard-arrow-left {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -624px -432px;
+=======
+	background-position: -528px -432px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-keyboard-arrow-right {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -672px -432px;
+=======
+	background-position: -576px -432px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-keyboard-arrow-up {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -720px -432px;
+=======
+	background-position: -624px -432px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-keyboard-backspace {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: 0 -480px;
+=======
+	background-position: -672px -432px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-voice {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -48px -480px;
+=======
+	background-position: -720px -432px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-phone-android {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -96px -480px;
+=======
+	background-position: 0 -480px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-attachment {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -144px -480px;
+=======
+	background-position: -48px -480px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-cloud {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -192px -480px;
+=======
+	background-position: -96px -480px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-cloud-circle {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -240px -480px;
+=======
+	background-position: -144px -480px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-cloud-done {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -288px -480px;
+=======
+	background-position: -192px -480px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-cloud-download {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -336px -480px;
+=======
+	background-position: -240px -480px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-cloud-off {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -384px -480px;
+=======
+	background-position: -288px -480px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-cloud-queue {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -432px -480px;
+=======
+	background-position: -336px -480px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-cloud-upload {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -480px -480px;
+=======
+	background-position: -384px -480px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-file-download {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -528px -480px;
+=======
+	background-position: -432px -480px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-file-upload {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -576px -480px;
+=======
+	background-position: -480px -480px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-folder {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -624px -480px;
+=======
+	background-position: -528px -480px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-folder-open {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -672px -480px;
+=======
+	background-position: -576px -480px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-folder-shared {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -720px -480px;
+=======
+	background-position: -624px -480px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-attachfile {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: 0 -528px;
+=======
+	background-position: -672px -480px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-bordercolor {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -48px -528px;
+=======
+	background-position: -720px -480px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-modeedit {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -96px -528px;
+=======
+	background-position: 0 -528px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-add {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -144px -528px;
+=======
+	background-position: -48px -528px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-add-box {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -192px -528px;
+=======
+	background-position: -96px -528px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-add-circle {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -240px -528px;
+=======
+	background-position: -144px -528px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-add-circle-outline {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -288px -528px;
+=======
+	background-position: -192px -528px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-backspace {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -336px -528px;
+=======
+	background-position: -240px -528px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-block {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -384px -528px;
+=======
+	background-position: -288px -528px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-clear {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -432px -528px;
+=======
+	background-position: -336px -528px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-create {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -480px -528px;
+=======
+	background-position: -384px -528px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-flag {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -528px -528px;
+=======
+	background-position: -432px -528px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-forward {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -576px -528px;
+=======
+	background-position: -480px -528px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-inbox {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -624px -528px;
+=======
+	background-position: -528px -528px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-link {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -672px -528px;
+=======
+	background-position: -576px -528px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-mail {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -720px -528px;
+=======
+	background-position: -624px -528px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-redo {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: 0 -576px;
+=======
+	background-position: -672px -528px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-remove {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -48px -576px;
+=======
+	background-position: -720px -528px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-remove-circle {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -96px -576px;
+=======
+	background-position: 0 -576px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-remove-circle-outline {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -144px -576px;
+=======
+	background-position: -48px -576px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-reply {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -192px -576px;
+=======
+	background-position: -96px -576px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-reply-all {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -240px -576px;
+=======
+	background-position: -144px -576px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-report {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -288px -576px;
+=======
+	background-position: -192px -576px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-save {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -336px -576px;
+=======
+	background-position: -240px -576px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-send {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -384px -576px;
+=======
+	background-position: -288px -576px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-undo {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -432px -576px;
+=======
+	background-position: -336px -576px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-contact-mail {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -480px -576px;
+=======
+	background-position: -384px -576px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-call {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -528px -576px;
+=======
+	background-position: -432px -576px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-call-end {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -576px -576px;
+=======
+	background-position: -480px -576px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-chat {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -624px -576px;
+=======
+	background-position: -528px -576px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-chat-bubble {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -672px -576px;
+=======
+	background-position: -576px -576px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-chat-bubble-outline {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -720px -576px;
+=======
+	background-position: -624px -576px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-comment {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: 0 -624px;
+=======
+	background-position: -672px -576px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-contact-phone {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -48px -624px;
+=======
+	background-position: -720px -576px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-contacts {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -96px -624px;
+=======
+	background-position: 0 -624px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-email {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -144px -624px;
+=======
+	background-position: -48px -624px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-location-on {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -192px -624px;
+=======
+	background-position: -96px -624px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-phone {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -240px -624px;
+=======
+	background-position: -144px -624px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-videocam {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -288px -624px;
+=======
+	background-position: -192px -624px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-videocam-off {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -336px -624px;
+=======
+	background-position: -240px -624px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-error {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -384px -624px;
+=======
+	background-position: -288px -624px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-error-outline {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -432px -624px;
+=======
+	background-position: -336px -624px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-warning {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -480px -624px;
+=======
+	background-position: -384px -624px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-account-box {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -528px -624px;
+=======
+	background-position: -432px -624px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-account-circle {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -576px -624px;
+=======
+	background-position: -480px -624px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-add-shopping-cart {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -624px -624px;
+=======
+	background-position: -528px -624px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-announcement {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -672px -624px;
+=======
+	background-position: -576px -624px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-assignment {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -720px -624px;
+=======
+	background-position: -624px -624px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-assignment-ind {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: 0 -672px;
+=======
+	background-position: -672px -624px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-assignment-late {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -48px -672px;
+=======
+	background-position: -720px -624px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-autorenew {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -96px -672px;
+=======
+	background-position: 0 -672px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-backup {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -144px -672px;
+=======
+	background-position: -48px -672px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-bookmark {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -192px -672px;
+=======
+	background-position: -96px -672px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-bookmark-border {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -240px -672px;
+=======
+	background-position: -144px -672px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-build {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -288px -672px;
+=======
+	background-position: -192px -672px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-cached {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -336px -672px;
+=======
+	background-position: -240px -672px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-check-circle {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -384px -672px;
+=======
+	background-position: -288px -672px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-delete {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -432px -672px;
+=======
+	background-position: -336px -672px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-description {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -480px -672px;
+=======
+	background-position: -384px -672px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-dns {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -528px -672px;
+=======
+	background-position: -432px -672px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-done {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -576px -672px;
+=======
+	background-position: -480px -672px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-favorite {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -624px -672px;
+=======
+	background-position: -528px -672px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-favorite-border {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -672px -672px;
+=======
+	background-position: -576px -672px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-grade {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -720px -672px;
+=======
+	background-position: -624px -672px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-help {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: 0 -720px;
+=======
+	background-position: -672px -672px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-help-outline {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -48px -720px;
+=======
+	background-position: -720px -672px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-highlight-off {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -96px -720px;
+=======
+	background-position: 0 -720px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-home {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -144px -720px;
+=======
+	background-position: -48px -720px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-http {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -192px -720px;
+=======
+	background-position: -96px -720px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-https {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -240px -720px;
+=======
+	background-position: -144px -720px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-info {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -288px -720px;
+=======
+	background-position: -192px -720px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-info-outline {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -336px -720px;
+=======
+	background-position: -240px -720px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-input {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -384px -720px;
+=======
+	background-position: -288px -720px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-invert-colors {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -432px -720px;
+=======
+	background-position: -336px -720px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-label {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -480px -720px;
+=======
+	background-position: -384px -720px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-label-outline {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -528px -720px;
+=======
+	background-position: -432px -720px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-language {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -576px -720px;
+=======
+	background-position: -480px -720px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-launch {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -624px -720px;
+=======
+	background-position: -528px -720px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-list {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -672px -720px;
+=======
+	background-position: -576px -720px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-lock {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -720px -720px;
+=======
+	background-position: -624px -720px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-lock-open {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: 0 -768px;
+=======
+	background-position: -672px -720px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-lock-outline {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -48px -768px;
+=======
+	background-position: -720px -720px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-loyalty {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -96px -768px;
+=======
+	background-position: 0 -768px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-note-add {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -144px -768px;
+=======
+	background-position: -48px -768px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-open-in-browser {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -192px -768px;
+=======
+	background-position: -96px -768px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-open-in-new {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -240px -768px;
+=======
+	background-position: -144px -768px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-pageview {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -288px -768px;
+=======
+	background-position: -192px -768px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-perm-contact-calendar {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -336px -768px;
+=======
+	background-position: -240px -768px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-perm-identity {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -384px -768px;
+=======
+	background-position: -288px -768px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-perm-media {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -432px -768px;
+=======
+	background-position: -336px -768px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-picture-in-picture {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -480px -768px;
+=======
+	background-position: -384px -768px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-power-settings-new {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -528px -768px;
+=======
+	background-position: -432px -768px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-print {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -576px -768px;
+=======
+	background-position: -480px -768px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-reorder {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -624px -768px;
+=======
+	background-position: -528px -768px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-report-problem {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -672px -768px;
+=======
+	background-position: -576px -768px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-room {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -720px -768px;
+=======
+	background-position: -624px -768px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-search {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: 0 -816px;
+=======
+	background-position: -672px -768px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-settings {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -48px -816px;
+=======
+	background-position: -720px -768px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-settings-applications {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -96px -816px;
+=======
+	background-position: 0 -816px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-shopping-cart {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -144px -816px;
+=======
+	background-position: -48px -816px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-star-rate {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -192px -816px;
+=======
+	background-position: -96px -816px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-star-circle {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -240px -816px;
+=======
+	background-position: -144px -816px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-supervisor-account {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -288px -816px;
+=======
+	background-position: -192px -816px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-system-update-alt {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -336px -816px;
+=======
+	background-position: -240px -816px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-turned-in {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -384px -816px;
+=======
+	background-position: -288px -816px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-turned-in-not {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -432px -816px;
 }
 .sui-icon-viewday {
 	width: 32px;
 	height: 32px;
 	background-position: -480px -816px;
+=======
+	background-position: -336px -816px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-visibility {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -528px -816px;
+=======
+	background-position: -384px -816px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-visibility-off {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -576px -816px;
+=======
+	background-position: -432px -816px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-work {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -624px -816px;
+=======
+	background-position: -480px -816px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-zoomin {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -672px -816px;
+=======
+	background-position: -528px -816px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-zoomout {
 	width: 32px;
 	height: 32px;
+<<<<<<< HEAD
 	background-position: -720px -816px;
+=======
+	background-position: -576px -816px;
+>>>>>>> f95997e0a86da66190c89c1b78b34a866cdc828c
 }
 .sui-icon-unionslogo {
 	width: 32px;
